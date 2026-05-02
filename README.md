@@ -6,6 +6,15 @@ The system performs feature extraction, fusion, training, and benchmarking acros
 
 Extended experiments (ablations, robustness, telehealth scenarios) live under [`research_extensions/`](research_extensions/README_research.md).
 
+## Demo
+
+Walkthrough / screen recording: **[Final demo — Multimodal sentiment](https://drive.google.com/file/d/16q8YUQtySiSF_vDpBPF33Q_8Hj1aAeAe/view?usp=sharing)** (Google Drive).
+
+## Slides & draft report
+
+- **Presentation (Google Slides):** [Project slides](https://docs.google.com/presentation/d/1Sw3YN3Urklmu5EXKEERZeny_SzItE50Z/edit?usp=sharing)
+- **Draft write-up (PDF):** [Final draft (Google Drive)](https://drive.google.com/file/d/111ZfGkPgj-CfIgN_1Z2ERJm1z1547air/view?usp=sharing)
+
 ## Features
 
 - Automatic dataset generation for text, audio, and video
@@ -43,10 +52,6 @@ Multimodal-sentiment-final/
 ├── requirements.txt
 └── README.md
 ```
-
-## Demo
-
-Walkthrough / screen recording: **[Final demo — Multimodal sentiment](https://drive.google.com/file/d/16q8YUQtySiSF_vDpBPF33Q_8Hj1aAeAe/view?usp=sharing)** (Google Drive).
 
 
 ## Installation
