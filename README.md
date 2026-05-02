@@ -4,7 +4,7 @@ A research-oriented project for sentiment classification using **text**, **audio
 
 The system performs feature extraction, fusion, training, and benchmarking across multiple architectures on GPU.
 
-Extended experiments (ablations, robustness, telehealth scenarios) live under `[research_extensions/](research_extensions/README_research.md)`.
+Extended experiments (ablations, robustness, telehealth scenarios) live under [`research_extensions/`](research_extensions/README_research.md).
 
 ## Features
 
@@ -18,7 +18,7 @@ Extended experiments (ablations, robustness, telehealth scenarios) live under `[
 ## Project structure
 
 ```text
-Multimodal-sentiment/
+Multimodal-sentiment-final/
 ├── src/
 │   ├── data_creation/          # Dataset generators, manifests
 │   ├── feature_extraction/     # Pretrained embedding extractors
@@ -37,8 +37,8 @@ Multimodal-sentiment/
 ├── data/
 │   ├── manifest_*.csv          # Splits (tracked)
 │   ├── custom/                 # Sample data / manifests
-│   └── features/               # Extracted embeddings (gitignored)
-├── results/                    # Checkpoints, logs, plots (gitignored; created when you train)
+│   └── features/               # Extracted embeddings (.gitignore by default; samples vendored here)
+├── results/                    # Checkpoints, logs, plots (.gitignore by default; samples may be vendored)
 ├── research_extensions/        # Optional research scripts & configs (see README inside)
 ├── requirements.txt
 └── README.md
@@ -47,25 +47,33 @@ Multimodal-sentiment/
 ## Installation
 
 1. **Clone the repository**
-  ```bash
-   git clone https://github.com/ssatviksingh/Multimodal-sentiment.git
-   cd Multimodal-sentiment
-  ```
+
+   ```bash
+   git clone https://github.com/Lakshita-2003/Multimodal-sentiment-final.git
+   cd Multimodal-sentiment-final
+   ```
+
 2. **Create and activate a virtual environment**
-  ```powershell
+
+   ```powershell
    python -m venv venv
    venv\Scripts\activate
-  ```
+   ```
+
    On macOS/Linux:
-  ```bash
+
+   ```bash
    python3 -m venv venv
    source venv/bin/activate
-  ```
+   ```
+
 3. **Install dependencies**
-  ```bash
+
+   ```bash
    pip install --upgrade pip
    pip install -r requirements.txt
-  ```
+   ```
+
 4. **(Optional) CUDA** — install a PyTorch build that matches your GPU: [pytorch.org/get-started/locally](https://pytorch.org/get-started/locally/)
 
 ## How to run the project (demo)
@@ -74,16 +82,14 @@ Run everything from the **repository root** (the folder that contains `requireme
 
 ### End-to-end benchmark (main demo)
 
-This is the usual path: use existing data → extract embeddings → train all models → compare. After training, `**train_all_models` runs test-set evaluation only for HybridFusion** (see [Metrics](#metrics-where-the-numbers-live)). It then runs `compare_all_models`. To **retrain everything** even when checkpoints exist, use `--force-retrain`.
-
+This is the usual path: use existing data → extract embeddings → train all models → compare. After training, **`train_all_models`** runs test-set evaluation only for HybridFusion (see [Metrics](#metrics-where-the-numbers-live)). It then runs `compare_all_models`. To **retrain everything** even when checkpoints exist, use `--force-retrain`.
 
 | Step                      | Command                                                                     | Notes                                                                                                                                                                                   |
 | ------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1. Dataset                | `python src/data_creation/generate_large_dataset.py`                        | Creates samples and `data/manifest_*.csv`. Skip if your manifests and media are already in place.                                                                                       |
 | 2. Embeddings             | `python src/feature_extraction/pretrained/extract_pretrained_embeddings.py` | Writes `data/features/{text,audio,video}/`. Needs GPU/CPU time and disk.                                                                                                                |
-| 3. Train + eval + compare | `python -m src.models.train_all_models`                                     | Trains baselines + hybrid; skips training if `results/<name>_best.pt` exists unless you pass `--force-retrain`. Runs `**evaluate_model` once** (hybrid test set) after hybrid training. |
+| 3. Train + eval + compare | `python -m src.models.train_all_models`                                     | Trains baselines + hybrid; skips training if `results/<name>_best.pt` exists unless you pass `--force-retrain`. Runs **`evaluate_model` once** (hybrid test set) after hybrid training. |
 | 3b. Force full retrain    | `python -m src.models.train_all_models --force-retrain`                     | Ignores existing checkpoints so all models train on current features.                                                                                                                   |
-
 
 **Hybrid test-set metrics** (`data/manifest_test.csv` + `data/features/`):
 
@@ -110,7 +116,7 @@ You still need feature extraction and training afterward if you want the full pi
 
 ### Optional: telehealth scenario demo (research extension)
 
-Requires **pre-extracted** features under `data/features/`, a trained `**results/hybrid_fusion_best.pt`**, and the expanded manifest used by the script (`data/custom/manifest_train_expanded.csv`). Outputs go to `research_extensions/results/telehealth_demo/`.
+Requires **pre-extracted** features under `data/features/`, a trained **`results/hybrid_fusion_best.pt`**, and the expanded manifest used by the script (`data/custom/manifest_train_expanded.csv`). Outputs go to `research_extensions/results/telehealth_demo/`.
 
 ```bash
 python -m research_extensions.experiments.run_applied_scenario_telehealth
@@ -122,7 +128,7 @@ Equivalent entry point:
 python -m research_extensions.scenarios.telehealth_pipeline_demo
 ```
 
-See `[research_extensions/README_research.md](research_extensions/README_research.md)` for other experiments.
+See [`research_extensions/README_research.md`](research_extensions/README_research.md) for other experiments.
 
 ### Legacy single-script trainer
 
@@ -152,7 +158,7 @@ This creates generated text, audio, and video samples, writes manifest files (`m
 python src/feature_extraction/pretrained/extract_pretrained_embeddings.py
 ```
 
-Embeddings are written under (ignored by git):
+Embeddings are written under paths listed in `.gitignore` by convention (so fresh clones do not accidentally commit large tensors). **This repository includes sample `data/features/` files** so you can run training without regenerating; delete them and rerun this script if you want a clean extraction.
 
 - `data/features/text/`
 - `data/features/audio/`
@@ -167,7 +173,7 @@ python -m src.models.train_all_models
 python -m src.models.train_all_models --force-retrain   # optional: ignore existing checkpoints
 ```
 
-Trains CNNs, ViT, and hybrid fusion; saves checkpoints and logs under `results/` (local only; not committed).
+Trains CNNs, ViT, and hybrid fusion; saves checkpoints and logs under `results/`. New outputs are normally kept local per `.gitignore`; **sample checkpoints and plots may already exist** in this repo for reproducibility.
 
 **Test-set evaluation (HybridFusion only):**
 
@@ -179,14 +185,12 @@ CNN/ViT baselines do not use this script; use validation metrics in their `resul
 
 ## Metrics: where the numbers live
 
-
 | What you need                                         | Where it is                                                                                         |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Hybrid — test accuracy / macro F1** (for reports)   | `results/evaluation_summary.txt` (from `evaluate_model`)                                            |
 | **Hybrid — validation curves**                        | `results/hybrid_fusion_log.csv`, `hybrid_fusion_curve.png`                                          |
 | **All models — best validation epoch (chart)**        | `python -m src.models.compare_all_models` → `results/comparison_chart.png` (reads best row per log) |
 | **Fusion variants (weighted / transformer / hybrid)** | `python -m src.models.compare_results` → `results/accuracy_progression.csv` (only logs that exist)  |
-
 
 Validation metrics come from training logs; test metrics for the hybrid come only from `evaluate_model`.
 
@@ -214,18 +218,15 @@ python -m src.models.compare_results
 
 Illustrative numbers from an example run — your metrics will vary by data and seed.
 
-
 | Model                | Accuracy | F1-Score |
 | -------------------- | -------- | -------- |
 | ResNet-18            | 68.9%    | 60.5%    |
-| EfficientNet-B0      | 67.6%    | 66.2%    |
+| EfficientNet-B0    | 67.6%    | 66.2%    |
 | ConvNeXt-Tiny        | 67.6%    | 66.2%    |
 | ViT-B/16             | 67.6%    | 66.2%    |
 | Hybrid-fusion (ours) | 70.4%    | 69.1%    |
 
-
 ## Key components
-
 
 | Component                          | Description                                               |
 | ---------------------------------- | --------------------------------------------------------- |
@@ -235,18 +236,16 @@ Illustrative numbers from an example run — your metrics will vary by data and 
 | `extract_pretrained_embeddings.py` | Modality-specific embeddings                              |
 | `evaluate_model.py`                | Inference and metrics                                     |
 
-
 ## Research extensions
 
-See `[research_extensions/README_research.md](research_extensions/README_research.md)` for telehealth-focused experiments, ablations, and analysis scripts. Outputs from those scripts go under `research_extensions/results/` (gitignored).
+See [`research_extensions/README_research.md`](research_extensions/README_research.md) for telehealth-focused experiments, ablations, and analysis scripts. Outputs from those scripts go under `research_extensions/results/` (listed in `.gitignore`).
 
-## Git (optional): SSH remote
+## Git remotes (optional)
 
-If you use an SSH host alias (e.g. `github.com-ssatviksingh`):
+**HTTPS**
 
 ```bash
-git remote set-url origin git@github.com-ssatviksingh:ssatviksingh/Multimodal-sentiment.git
-git push origin main
+git clone https://github.com/Lakshita-2003/Multimodal-sentiment-final.git
 ```
 
 ## Verification checklist
@@ -254,4 +253,3 @@ git push origin main
 1. Use the same `data/features/` and manifests you trained on; if you regenerated features, run `python -m src.models.train_all_models --force-retrain` or delete stale `results/*_best.pt` first.
 2. After training, confirm `results/evaluation_summary.txt` matches the hybrid test run you report.
 3. `python -m src.models.compare_all_models` should list each model with best validation metrics (not repeated hybrid test prints).
-
