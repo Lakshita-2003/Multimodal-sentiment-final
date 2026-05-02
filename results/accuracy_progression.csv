@@ -1,0 +1,4 @@
+Model,Val_Accuracy,Val_F1
+Weighted Fusion,0.0,
+Transformer Fusion,0.0,0.0
+Hybrid Fusion (ViT+AST),100.0,100.0

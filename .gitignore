@@ -1,0 +1,67 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Packaging / install artifacts
+dist/
+build/
+*.egg-info/
+
+# Secrets (track a template with ! if you add one)
+.env
+.env.*
+!.env.example
+
+# Large / generated data (manifests and samples under data/ can stay tracked)
+data/features/
+data/raw/
+
+# Feature cache only at repo root (not data/features/)
+/features/
+
+# Training outputs and experiment artifacts
+results/
+checkpoints/
+research_extensions/results/
+
+# Model checkpoints (any location)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Archives and serialized caches
+*.zip
+*.pkl
+
+# Tool caches (e.g. Hugging Face hub inside repo)
+.cache/
+
+# Logs
+*.log
+
+# Test / coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Experiment tracking (optional)
+wandb/
+runs/
+lightning_logs/
+
+# OS / editor (do not ignore .vscode/ — project shares editor config)
+.DS_Store
+Thumbs.db
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/

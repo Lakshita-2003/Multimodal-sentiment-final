@@ -1,0 +1,1001 @@
+filename,audio_path,video_path,text,label
+sample_000001,data/raw/audio\sample_000001.wav,data/raw/video\sample_000001.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000004,data/raw/audio\sample_000004.wav,data/raw/video\sample_000004.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000009,data/raw/audio\sample_000009.wav,data/raw/video\sample_000009.mp4,"Great film, emotional and powerful.",2
+sample_000011,data/raw/audio\sample_000011.wav,data/raw/video\sample_000011.mp4,"Awful experience, not worth watching.",0
+sample_000013,data/raw/audio\sample_000013.wav,data/raw/video\sample_000013.mp4,"Wonderful, exceeded all expectations!",2
+sample_000038,data/raw/audio\sample_000038.wav,data/raw/video\sample_000038.mp4,"Awful experience, not worth watching.",0
+sample_000054,data/raw/audio\sample_000054.wav,data/raw/video\sample_000054.mp4,"Great film, emotional and powerful.",2
+sample_000055,data/raw/audio\sample_000055.wav,data/raw/video\sample_000055.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000064,data/raw/audio\sample_000064.wav,data/raw/video\sample_000064.mp4,"An average performance, could be better.",1
+sample_000074,data/raw/audio\sample_000074.wav,data/raw/video\sample_000074.mp4,Mediocre storyline but decent acting.,1
+sample_000077,data/raw/audio\sample_000077.wav,data/raw/video\sample_000077.mp4,"An average performance, could be better.",1
+sample_000094,data/raw/audio\sample_000094.wav,data/raw/video\sample_000094.mp4,"An average performance, could be better.",1
+sample_000098,data/raw/audio\sample_000098.wav,data/raw/video\sample_000098.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000116,data/raw/audio\sample_000116.wav,data/raw/video\sample_000116.mp4,"Completely disappointed, waste of time.",0
+sample_000117,data/raw/audio\sample_000117.wav,data/raw/video\sample_000117.mp4,"Awful experience, not worth watching.",0
+sample_000125,data/raw/audio\sample_000125.wav,data/raw/video\sample_000125.mp4,"This was terrible, I hated every moment.",0
+sample_000126,data/raw/audio\sample_000126.wav,data/raw/video\sample_000126.mp4,"Completely disappointed, waste of time.",0
+sample_000133,data/raw/audio\sample_000133.wav,data/raw/video\sample_000133.mp4,Mediocre storyline but decent acting.,1
+sample_000140,data/raw/audio\sample_000140.wav,data/raw/video\sample_000140.mp4,"Wonderful, exceeded all expectations!",2
+sample_000145,data/raw/audio\sample_000145.wav,data/raw/video\sample_000145.mp4,"This was terrible, I hated every moment.",0
+sample_000148,data/raw/audio\sample_000148.wav,data/raw/video\sample_000148.mp4,"This was terrible, I hated every moment.",0
+sample_000189,data/raw/audio\sample_000189.wav,data/raw/video\sample_000189.mp4,Mediocre storyline but decent acting.,1
+sample_000190,data/raw/audio\sample_000190.wav,data/raw/video\sample_000190.mp4,"This was terrible, I hated every moment.",0
+sample_000197,data/raw/audio\sample_000197.wav,data/raw/video\sample_000197.mp4,"Completely disappointed, waste of time.",0
+sample_000202,data/raw/audio\sample_000202.wav,data/raw/video\sample_000202.mp4,"This was terrible, I hated every moment.",0
+sample_000206,data/raw/audio\sample_000206.wav,data/raw/video\sample_000206.mp4,"An average performance, could be better.",1
+sample_000207,data/raw/audio\sample_000207.wav,data/raw/video\sample_000207.mp4,"Completely disappointed, waste of time.",0
+sample_000213,data/raw/audio\sample_000213.wav,data/raw/video\sample_000213.mp4,"Wonderful, exceeded all expectations!",2
+sample_000224,data/raw/audio\sample_000224.wav,data/raw/video\sample_000224.mp4,Mediocre storyline but decent acting.,1
+sample_000232,data/raw/audio\sample_000232.wav,data/raw/video\sample_000232.mp4,"It was okay, not great but not bad either.",1
+sample_000243,data/raw/audio\sample_000243.wav,data/raw/video\sample_000243.mp4,"It was okay, not great but not bad either.",1
+sample_000249,data/raw/audio\sample_000249.wav,data/raw/video\sample_000249.mp4,"Wonderful, exceeded all expectations!",2
+sample_000261,data/raw/audio\sample_000261.wav,data/raw/video\sample_000261.mp4,"Wonderful, exceeded all expectations!",2
+sample_000269,data/raw/audio\sample_000269.wav,data/raw/video\sample_000269.mp4,"This was terrible, I hated every moment.",0
+sample_000271,data/raw/audio\sample_000271.wav,data/raw/video\sample_000271.mp4,"Wonderful, exceeded all expectations!",2
+sample_000281,data/raw/audio\sample_000281.wav,data/raw/video\sample_000281.mp4,"Wonderful, exceeded all expectations!",2
+sample_000294,data/raw/audio\sample_000294.wav,data/raw/video\sample_000294.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000306,data/raw/audio\sample_000306.wav,data/raw/video\sample_000306.mp4,"This was terrible, I hated every moment.",0
+sample_000317,data/raw/audio\sample_000317.wav,data/raw/video\sample_000317.mp4,"Awful experience, not worth watching.",0
+sample_000329,data/raw/audio\sample_000329.wav,data/raw/video\sample_000329.mp4,"Wonderful, exceeded all expectations!",2
+sample_000340,data/raw/audio\sample_000340.wav,data/raw/video\sample_000340.mp4,"An average performance, could be better.",1
+sample_000345,data/raw/audio\sample_000345.wav,data/raw/video\sample_000345.mp4,"This was terrible, I hated every moment.",0
+sample_000362,data/raw/audio\sample_000362.wav,data/raw/video\sample_000362.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000391,data/raw/audio\sample_000391.wav,data/raw/video\sample_000391.mp4,"This was terrible, I hated every moment.",0
+sample_000395,data/raw/audio\sample_000395.wav,data/raw/video\sample_000395.mp4,"An average performance, could be better.",1
+sample_000404,data/raw/audio\sample_000404.wav,data/raw/video\sample_000404.mp4,"Completely disappointed, waste of time.",0
+sample_000406,data/raw/audio\sample_000406.wav,data/raw/video\sample_000406.mp4,Mediocre storyline but decent acting.,1
+sample_000412,data/raw/audio\sample_000412.wav,data/raw/video\sample_000412.mp4,"Wonderful, exceeded all expectations!",2
+sample_000419,data/raw/audio\sample_000419.wav,data/raw/video\sample_000419.mp4,"Awful experience, not worth watching.",0
+sample_000458,data/raw/audio\sample_000458.wav,data/raw/video\sample_000458.mp4,"This was terrible, I hated every moment.",0
+sample_000481,data/raw/audio\sample_000481.wav,data/raw/video\sample_000481.mp4,"Awful experience, not worth watching.",0
+sample_000488,data/raw/audio\sample_000488.wav,data/raw/video\sample_000488.mp4,"Completely disappointed, waste of time.",0
+sample_000502,data/raw/audio\sample_000502.wav,data/raw/video\sample_000502.mp4,"Awful experience, not worth watching.",0
+sample_000504,data/raw/audio\sample_000504.wav,data/raw/video\sample_000504.mp4,"An average performance, could be better.",1
+sample_000512,data/raw/audio\sample_000512.wav,data/raw/video\sample_000512.mp4,Mediocre storyline but decent acting.,1
+sample_000514,data/raw/audio\sample_000514.wav,data/raw/video\sample_000514.mp4,"This was terrible, I hated every moment.",0
+sample_000523,data/raw/audio\sample_000523.wav,data/raw/video\sample_000523.mp4,"This was terrible, I hated every moment.",0
+sample_000525,data/raw/audio\sample_000525.wav,data/raw/video\sample_000525.mp4,"An average performance, could be better.",1
+sample_000529,data/raw/audio\sample_000529.wav,data/raw/video\sample_000529.mp4,"Completely disappointed, waste of time.",0
+sample_000536,data/raw/audio\sample_000536.wav,data/raw/video\sample_000536.mp4,"Great film, emotional and powerful.",2
+sample_000545,data/raw/audio\sample_000545.wav,data/raw/video\sample_000545.mp4,"An average performance, could be better.",1
+sample_000552,data/raw/audio\sample_000552.wav,data/raw/video\sample_000552.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000556,data/raw/audio\sample_000556.wav,data/raw/video\sample_000556.mp4,"Wonderful, exceeded all expectations!",2
+sample_000560,data/raw/audio\sample_000560.wav,data/raw/video\sample_000560.mp4,"Awful experience, not worth watching.",0
+sample_000571,data/raw/audio\sample_000571.wav,data/raw/video\sample_000571.mp4,"This was terrible, I hated every moment.",0
+sample_000575,data/raw/audio\sample_000575.wav,data/raw/video\sample_000575.mp4,"Great film, emotional and powerful.",2
+sample_000583,data/raw/audio\sample_000583.wav,data/raw/video\sample_000583.mp4,"Wonderful, exceeded all expectations!",2
+sample_000600,data/raw/audio\sample_000600.wav,data/raw/video\sample_000600.mp4,"It was okay, not great but not bad either.",1
+sample_000614,data/raw/audio\sample_000614.wav,data/raw/video\sample_000614.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000619,data/raw/audio\sample_000619.wav,data/raw/video\sample_000619.mp4,"Awful experience, not worth watching.",0
+sample_000630,data/raw/audio\sample_000630.wav,data/raw/video\sample_000630.mp4,"It was okay, not great but not bad either.",1
+sample_000634,data/raw/audio\sample_000634.wav,data/raw/video\sample_000634.mp4,"This was terrible, I hated every moment.",0
+sample_000635,data/raw/audio\sample_000635.wav,data/raw/video\sample_000635.mp4,"It was okay, not great but not bad either.",1
+sample_000659,data/raw/audio\sample_000659.wav,data/raw/video\sample_000659.mp4,"An average performance, could be better.",1
+sample_000663,data/raw/audio\sample_000663.wav,data/raw/video\sample_000663.mp4,"Completely disappointed, waste of time.",0
+sample_000671,data/raw/audio\sample_000671.wav,data/raw/video\sample_000671.mp4,"Great film, emotional and powerful.",2
+sample_000688,data/raw/audio\sample_000688.wav,data/raw/video\sample_000688.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000689,data/raw/audio\sample_000689.wav,data/raw/video\sample_000689.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000698,data/raw/audio\sample_000698.wav,data/raw/video\sample_000698.mp4,"Wonderful, exceeded all expectations!",2
+sample_000707,data/raw/audio\sample_000707.wav,data/raw/video\sample_000707.mp4,"An average performance, could be better.",1
+sample_000768,data/raw/audio\sample_000768.wav,data/raw/video\sample_000768.mp4,Mediocre storyline but decent acting.,1
+sample_000769,data/raw/audio\sample_000769.wav,data/raw/video\sample_000769.mp4,"Awful experience, not worth watching.",0
+sample_000770,data/raw/audio\sample_000770.wav,data/raw/video\sample_000770.mp4,"This was terrible, I hated every moment.",0
+sample_000775,data/raw/audio\sample_000775.wav,data/raw/video\sample_000775.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000791,data/raw/audio\sample_000791.wav,data/raw/video\sample_000791.mp4,Mediocre storyline but decent acting.,1
+sample_000792,data/raw/audio\sample_000792.wav,data/raw/video\sample_000792.mp4,"Awful experience, not worth watching.",0
+sample_000793,data/raw/audio\sample_000793.wav,data/raw/video\sample_000793.mp4,"An average performance, could be better.",1
+sample_000804,data/raw/audio\sample_000804.wav,data/raw/video\sample_000804.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000806,data/raw/audio\sample_000806.wav,data/raw/video\sample_000806.mp4,Mediocre storyline but decent acting.,1
+sample_000814,data/raw/audio\sample_000814.wav,data/raw/video\sample_000814.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000824,data/raw/audio\sample_000824.wav,data/raw/video\sample_000824.mp4,"This was terrible, I hated every moment.",0
+sample_000827,data/raw/audio\sample_000827.wav,data/raw/video\sample_000827.mp4,"This was terrible, I hated every moment.",0
+sample_000830,data/raw/audio\sample_000830.wav,data/raw/video\sample_000830.mp4,"Great film, emotional and powerful.",2
+sample_000832,data/raw/audio\sample_000832.wav,data/raw/video\sample_000832.mp4,"An average performance, could be better.",1
+sample_000853,data/raw/audio\sample_000853.wav,data/raw/video\sample_000853.mp4,"Awful experience, not worth watching.",0
+sample_000854,data/raw/audio\sample_000854.wav,data/raw/video\sample_000854.mp4,"Awful experience, not worth watching.",0
+sample_000876,data/raw/audio\sample_000876.wav,data/raw/video\sample_000876.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000891,data/raw/audio\sample_000891.wav,data/raw/video\sample_000891.mp4,Mediocre storyline but decent acting.,1
+sample_000917,data/raw/audio\sample_000917.wav,data/raw/video\sample_000917.mp4,"It was okay, not great but not bad either.",1
+sample_000924,data/raw/audio\sample_000924.wav,data/raw/video\sample_000924.mp4,"Great film, emotional and powerful.",2
+sample_000936,data/raw/audio\sample_000936.wav,data/raw/video\sample_000936.mp4,Mediocre storyline but decent acting.,1
+sample_000951,data/raw/audio\sample_000951.wav,data/raw/video\sample_000951.mp4,"An average performance, could be better.",1
+sample_000953,data/raw/audio\sample_000953.wav,data/raw/video\sample_000953.mp4,"It was okay, not great but not bad either.",1
+sample_000955,data/raw/audio\sample_000955.wav,data/raw/video\sample_000955.mp4,"Great film, emotional and powerful.",2
+sample_000956,data/raw/audio\sample_000956.wav,data/raw/video\sample_000956.mp4,"Great film, emotional and powerful.",2
+sample_000959,data/raw/audio\sample_000959.wav,data/raw/video\sample_000959.mp4,"Completely disappointed, waste of time.",0
+sample_000984,data/raw/audio\sample_000984.wav,data/raw/video\sample_000984.mp4,"It was okay, not great but not bad either.",1
+sample_000988,data/raw/audio\sample_000988.wav,data/raw/video\sample_000988.mp4,"Absolutely loved it, fantastic experience!",2
+sample_000995,data/raw/audio\sample_000995.wav,data/raw/video\sample_000995.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001000,data/raw/audio\sample_001000.wav,data/raw/video\sample_001000.mp4,"Great film, emotional and powerful.",2
+sample_001012,data/raw/audio\sample_001012.wav,data/raw/video\sample_001012.mp4,"Completely disappointed, waste of time.",0
+sample_001015,data/raw/audio\sample_001015.wav,data/raw/video\sample_001015.mp4,"This was terrible, I hated every moment.",0
+sample_001016,data/raw/audio\sample_001016.wav,data/raw/video\sample_001016.mp4,"Wonderful, exceeded all expectations!",2
+sample_001021,data/raw/audio\sample_001021.wav,data/raw/video\sample_001021.mp4,"This was terrible, I hated every moment.",0
+sample_001058,data/raw/audio\sample_001058.wav,data/raw/video\sample_001058.mp4,Mediocre storyline but decent acting.,1
+sample_001062,data/raw/audio\sample_001062.wav,data/raw/video\sample_001062.mp4,"This was terrible, I hated every moment.",0
+sample_001063,data/raw/audio\sample_001063.wav,data/raw/video\sample_001063.mp4,"Awful experience, not worth watching.",0
+sample_001066,data/raw/audio\sample_001066.wav,data/raw/video\sample_001066.mp4,Mediocre storyline but decent acting.,1
+sample_001077,data/raw/audio\sample_001077.wav,data/raw/video\sample_001077.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001081,data/raw/audio\sample_001081.wav,data/raw/video\sample_001081.mp4,"It was okay, not great but not bad either.",1
+sample_001100,data/raw/audio\sample_001100.wav,data/raw/video\sample_001100.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001122,data/raw/audio\sample_001122.wav,data/raw/video\sample_001122.mp4,"This was terrible, I hated every moment.",0
+sample_001125,data/raw/audio\sample_001125.wav,data/raw/video\sample_001125.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001133,data/raw/audio\sample_001133.wav,data/raw/video\sample_001133.mp4,"An average performance, could be better.",1
+sample_001136,data/raw/audio\sample_001136.wav,data/raw/video\sample_001136.mp4,"It was okay, not great but not bad either.",1
+sample_001150,data/raw/audio\sample_001150.wav,data/raw/video\sample_001150.mp4,"An average performance, could be better.",1
+sample_001165,data/raw/audio\sample_001165.wav,data/raw/video\sample_001165.mp4,"Wonderful, exceeded all expectations!",2
+sample_001167,data/raw/audio\sample_001167.wav,data/raw/video\sample_001167.mp4,"Great film, emotional and powerful.",2
+sample_001184,data/raw/audio\sample_001184.wav,data/raw/video\sample_001184.mp4,"Completely disappointed, waste of time.",0
+sample_001202,data/raw/audio\sample_001202.wav,data/raw/video\sample_001202.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001205,data/raw/audio\sample_001205.wav,data/raw/video\sample_001205.mp4,"An average performance, could be better.",1
+sample_001229,data/raw/audio\sample_001229.wav,data/raw/video\sample_001229.mp4,"Awful experience, not worth watching.",0
+sample_001239,data/raw/audio\sample_001239.wav,data/raw/video\sample_001239.mp4,"Awful experience, not worth watching.",0
+sample_001241,data/raw/audio\sample_001241.wav,data/raw/video\sample_001241.mp4,"This was terrible, I hated every moment.",0
+sample_001248,data/raw/audio\sample_001248.wav,data/raw/video\sample_001248.mp4,"Wonderful, exceeded all expectations!",2
+sample_001256,data/raw/audio\sample_001256.wav,data/raw/video\sample_001256.mp4,"An average performance, could be better.",1
+sample_001265,data/raw/audio\sample_001265.wav,data/raw/video\sample_001265.mp4,"Great film, emotional and powerful.",2
+sample_001267,data/raw/audio\sample_001267.wav,data/raw/video\sample_001267.mp4,"It was okay, not great but not bad either.",1
+sample_001276,data/raw/audio\sample_001276.wav,data/raw/video\sample_001276.mp4,"Wonderful, exceeded all expectations!",2
+sample_001296,data/raw/audio\sample_001296.wav,data/raw/video\sample_001296.mp4,"An average performance, could be better.",1
+sample_001300,data/raw/audio\sample_001300.wav,data/raw/video\sample_001300.mp4,Mediocre storyline but decent acting.,1
+sample_001301,data/raw/audio\sample_001301.wav,data/raw/video\sample_001301.mp4,"It was okay, not great but not bad either.",1
+sample_001308,data/raw/audio\sample_001308.wav,data/raw/video\sample_001308.mp4,"Wonderful, exceeded all expectations!",2
+sample_001312,data/raw/audio\sample_001312.wav,data/raw/video\sample_001312.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001316,data/raw/audio\sample_001316.wav,data/raw/video\sample_001316.mp4,"It was okay, not great but not bad either.",1
+sample_001353,data/raw/audio\sample_001353.wav,data/raw/video\sample_001353.mp4,"Wonderful, exceeded all expectations!",2
+sample_001367,data/raw/audio\sample_001367.wav,data/raw/video\sample_001367.mp4,"Completely disappointed, waste of time.",0
+sample_001380,data/raw/audio\sample_001380.wav,data/raw/video\sample_001380.mp4,"It was okay, not great but not bad either.",1
+sample_001386,data/raw/audio\sample_001386.wav,data/raw/video\sample_001386.mp4,"It was okay, not great but not bad either.",1
+sample_001389,data/raw/audio\sample_001389.wav,data/raw/video\sample_001389.mp4,"Great film, emotional and powerful.",2
+sample_001390,data/raw/audio\sample_001390.wav,data/raw/video\sample_001390.mp4,"Awful experience, not worth watching.",0
+sample_001440,data/raw/audio\sample_001440.wav,data/raw/video\sample_001440.mp4,"This was terrible, I hated every moment.",0
+sample_001484,data/raw/audio\sample_001484.wav,data/raw/video\sample_001484.mp4,"An average performance, could be better.",1
+sample_001500,data/raw/audio\sample_001500.wav,data/raw/video\sample_001500.mp4,"Great film, emotional and powerful.",2
+sample_001531,data/raw/audio\sample_001531.wav,data/raw/video\sample_001531.mp4,"Great film, emotional and powerful.",2
+sample_001540,data/raw/audio\sample_001540.wav,data/raw/video\sample_001540.mp4,"An average performance, could be better.",1
+sample_001555,data/raw/audio\sample_001555.wav,data/raw/video\sample_001555.mp4,"Completely disappointed, waste of time.",0
+sample_001607,data/raw/audio\sample_001607.wav,data/raw/video\sample_001607.mp4,"Awful experience, not worth watching.",0
+sample_001619,data/raw/audio\sample_001619.wav,data/raw/video\sample_001619.mp4,"Completely disappointed, waste of time.",0
+sample_001622,data/raw/audio\sample_001622.wav,data/raw/video\sample_001622.mp4,Mediocre storyline but decent acting.,1
+sample_001633,data/raw/audio\sample_001633.wav,data/raw/video\sample_001633.mp4,Mediocre storyline but decent acting.,1
+sample_001640,data/raw/audio\sample_001640.wav,data/raw/video\sample_001640.mp4,"It was okay, not great but not bad either.",1
+sample_001645,data/raw/audio\sample_001645.wav,data/raw/video\sample_001645.mp4,Mediocre storyline but decent acting.,1
+sample_001685,data/raw/audio\sample_001685.wav,data/raw/video\sample_001685.mp4,"Awful experience, not worth watching.",0
+sample_001704,data/raw/audio\sample_001704.wav,data/raw/video\sample_001704.mp4,"An average performance, could be better.",1
+sample_001707,data/raw/audio\sample_001707.wav,data/raw/video\sample_001707.mp4,Mediocre storyline but decent acting.,1
+sample_001709,data/raw/audio\sample_001709.wav,data/raw/video\sample_001709.mp4,"Wonderful, exceeded all expectations!",2
+sample_001712,data/raw/audio\sample_001712.wav,data/raw/video\sample_001712.mp4,"Awful experience, not worth watching.",0
+sample_001733,data/raw/audio\sample_001733.wav,data/raw/video\sample_001733.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001742,data/raw/audio\sample_001742.wav,data/raw/video\sample_001742.mp4,"Wonderful, exceeded all expectations!",2
+sample_001757,data/raw/audio\sample_001757.wav,data/raw/video\sample_001757.mp4,"Awful experience, not worth watching.",0
+sample_001761,data/raw/audio\sample_001761.wav,data/raw/video\sample_001761.mp4,"This was terrible, I hated every moment.",0
+sample_001763,data/raw/audio\sample_001763.wav,data/raw/video\sample_001763.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001804,data/raw/audio\sample_001804.wav,data/raw/video\sample_001804.mp4,"Great film, emotional and powerful.",2
+sample_001810,data/raw/audio\sample_001810.wav,data/raw/video\sample_001810.mp4,Mediocre storyline but decent acting.,1
+sample_001823,data/raw/audio\sample_001823.wav,data/raw/video\sample_001823.mp4,"An average performance, could be better.",1
+sample_001838,data/raw/audio\sample_001838.wav,data/raw/video\sample_001838.mp4,Mediocre storyline but decent acting.,1
+sample_001843,data/raw/audio\sample_001843.wav,data/raw/video\sample_001843.mp4,"This was terrible, I hated every moment.",0
+sample_001868,data/raw/audio\sample_001868.wav,data/raw/video\sample_001868.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001887,data/raw/audio\sample_001887.wav,data/raw/video\sample_001887.mp4,"An average performance, could be better.",1
+sample_001895,data/raw/audio\sample_001895.wav,data/raw/video\sample_001895.mp4,Mediocre storyline but decent acting.,1
+sample_001917,data/raw/audio\sample_001917.wav,data/raw/video\sample_001917.mp4,"It was okay, not great but not bad either.",1
+sample_001925,data/raw/audio\sample_001925.wav,data/raw/video\sample_001925.mp4,"This was terrible, I hated every moment.",0
+sample_001939,data/raw/audio\sample_001939.wav,data/raw/video\sample_001939.mp4,"This was terrible, I hated every moment.",0
+sample_001949,data/raw/audio\sample_001949.wav,data/raw/video\sample_001949.mp4,"Awful experience, not worth watching.",0
+sample_001950,data/raw/audio\sample_001950.wav,data/raw/video\sample_001950.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001953,data/raw/audio\sample_001953.wav,data/raw/video\sample_001953.mp4,"It was okay, not great but not bad either.",1
+sample_001959,data/raw/audio\sample_001959.wav,data/raw/video\sample_001959.mp4,"Completely disappointed, waste of time.",0
+sample_001960,data/raw/audio\sample_001960.wav,data/raw/video\sample_001960.mp4,"It was okay, not great but not bad either.",1
+sample_001970,data/raw/audio\sample_001970.wav,data/raw/video\sample_001970.mp4,"Awful experience, not worth watching.",0
+sample_001976,data/raw/audio\sample_001976.wav,data/raw/video\sample_001976.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001986,data/raw/audio\sample_001986.wav,data/raw/video\sample_001986.mp4,"An average performance, could be better.",1
+sample_001990,data/raw/audio\sample_001990.wav,data/raw/video\sample_001990.mp4,"Absolutely loved it, fantastic experience!",2
+sample_001994,data/raw/audio\sample_001994.wav,data/raw/video\sample_001994.mp4,"An average performance, could be better.",1
+sample_001998,data/raw/audio\sample_001998.wav,data/raw/video\sample_001998.mp4,"Wonderful, exceeded all expectations!",2
+sample_002000,data/raw/audio\sample_002000.wav,data/raw/video\sample_002000.mp4,"This was terrible, I hated every moment.",0
+sample_002026,data/raw/audio\sample_002026.wav,data/raw/video\sample_002026.mp4,"This was terrible, I hated every moment.",0
+sample_002027,data/raw/audio\sample_002027.wav,data/raw/video\sample_002027.mp4,"Wonderful, exceeded all expectations!",2
+sample_002032,data/raw/audio\sample_002032.wav,data/raw/video\sample_002032.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002033,data/raw/audio\sample_002033.wav,data/raw/video\sample_002033.mp4,"Wonderful, exceeded all expectations!",2
+sample_002047,data/raw/audio\sample_002047.wav,data/raw/video\sample_002047.mp4,"Wonderful, exceeded all expectations!",2
+sample_002048,data/raw/audio\sample_002048.wav,data/raw/video\sample_002048.mp4,"Wonderful, exceeded all expectations!",2
+sample_002060,data/raw/audio\sample_002060.wav,data/raw/video\sample_002060.mp4,"It was okay, not great but not bad either.",1
+sample_002074,data/raw/audio\sample_002074.wav,data/raw/video\sample_002074.mp4,"An average performance, could be better.",1
+sample_002079,data/raw/audio\sample_002079.wav,data/raw/video\sample_002079.mp4,"An average performance, could be better.",1
+sample_002116,data/raw/audio\sample_002116.wav,data/raw/video\sample_002116.mp4,"Awful experience, not worth watching.",0
+sample_002141,data/raw/audio\sample_002141.wav,data/raw/video\sample_002141.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002162,data/raw/audio\sample_002162.wav,data/raw/video\sample_002162.mp4,"An average performance, could be better.",1
+sample_002192,data/raw/audio\sample_002192.wav,data/raw/video\sample_002192.mp4,"This was terrible, I hated every moment.",0
+sample_002200,data/raw/audio\sample_002200.wav,data/raw/video\sample_002200.mp4,"An average performance, could be better.",1
+sample_002203,data/raw/audio\sample_002203.wav,data/raw/video\sample_002203.mp4,"Great film, emotional and powerful.",2
+sample_002205,data/raw/audio\sample_002205.wav,data/raw/video\sample_002205.mp4,"An average performance, could be better.",1
+sample_002219,data/raw/audio\sample_002219.wav,data/raw/video\sample_002219.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002255,data/raw/audio\sample_002255.wav,data/raw/video\sample_002255.mp4,"Completely disappointed, waste of time.",0
+sample_002278,data/raw/audio\sample_002278.wav,data/raw/video\sample_002278.mp4,"This was terrible, I hated every moment.",0
+sample_002289,data/raw/audio\sample_002289.wav,data/raw/video\sample_002289.mp4,Mediocre storyline but decent acting.,1
+sample_002336,data/raw/audio\sample_002336.wav,data/raw/video\sample_002336.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002349,data/raw/audio\sample_002349.wav,data/raw/video\sample_002349.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002353,data/raw/audio\sample_002353.wav,data/raw/video\sample_002353.mp4,Mediocre storyline but decent acting.,1
+sample_002356,data/raw/audio\sample_002356.wav,data/raw/video\sample_002356.mp4,"This was terrible, I hated every moment.",0
+sample_002368,data/raw/audio\sample_002368.wav,data/raw/video\sample_002368.mp4,"Awful experience, not worth watching.",0
+sample_002371,data/raw/audio\sample_002371.wav,data/raw/video\sample_002371.mp4,"Great film, emotional and powerful.",2
+sample_002385,data/raw/audio\sample_002385.wav,data/raw/video\sample_002385.mp4,"It was okay, not great but not bad either.",1
+sample_002403,data/raw/audio\sample_002403.wav,data/raw/video\sample_002403.mp4,"Awful experience, not worth watching.",0
+sample_002408,data/raw/audio\sample_002408.wav,data/raw/video\sample_002408.mp4,"Awful experience, not worth watching.",0
+sample_002421,data/raw/audio\sample_002421.wav,data/raw/video\sample_002421.mp4,"An average performance, could be better.",1
+sample_002427,data/raw/audio\sample_002427.wav,data/raw/video\sample_002427.mp4,"Great film, emotional and powerful.",2
+sample_002430,data/raw/audio\sample_002430.wav,data/raw/video\sample_002430.mp4,Mediocre storyline but decent acting.,1
+sample_002433,data/raw/audio\sample_002433.wav,data/raw/video\sample_002433.mp4,"Great film, emotional and powerful.",2
+sample_002443,data/raw/audio\sample_002443.wav,data/raw/video\sample_002443.mp4,"It was okay, not great but not bad either.",1
+sample_002454,data/raw/audio\sample_002454.wav,data/raw/video\sample_002454.mp4,"This was terrible, I hated every moment.",0
+sample_002466,data/raw/audio\sample_002466.wav,data/raw/video\sample_002466.mp4,"Wonderful, exceeded all expectations!",2
+sample_002493,data/raw/audio\sample_002493.wav,data/raw/video\sample_002493.mp4,"This was terrible, I hated every moment.",0
+sample_002502,data/raw/audio\sample_002502.wav,data/raw/video\sample_002502.mp4,"Awful experience, not worth watching.",0
+sample_002504,data/raw/audio\sample_002504.wav,data/raw/video\sample_002504.mp4,"An average performance, could be better.",1
+sample_002507,data/raw/audio\sample_002507.wav,data/raw/video\sample_002507.mp4,"Great film, emotional and powerful.",2
+sample_002529,data/raw/audio\sample_002529.wav,data/raw/video\sample_002529.mp4,"It was okay, not great but not bad either.",1
+sample_002530,data/raw/audio\sample_002530.wav,data/raw/video\sample_002530.mp4,"Completely disappointed, waste of time.",0
+sample_002551,data/raw/audio\sample_002551.wav,data/raw/video\sample_002551.mp4,"Wonderful, exceeded all expectations!",2
+sample_002557,data/raw/audio\sample_002557.wav,data/raw/video\sample_002557.mp4,"An average performance, could be better.",1
+sample_002558,data/raw/audio\sample_002558.wav,data/raw/video\sample_002558.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002562,data/raw/audio\sample_002562.wav,data/raw/video\sample_002562.mp4,"Great film, emotional and powerful.",2
+sample_002568,data/raw/audio\sample_002568.wav,data/raw/video\sample_002568.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002573,data/raw/audio\sample_002573.wav,data/raw/video\sample_002573.mp4,"Great film, emotional and powerful.",2
+sample_002590,data/raw/audio\sample_002590.wav,data/raw/video\sample_002590.mp4,"Completely disappointed, waste of time.",0
+sample_002612,data/raw/audio\sample_002612.wav,data/raw/video\sample_002612.mp4,"It was okay, not great but not bad either.",1
+sample_002632,data/raw/audio\sample_002632.wav,data/raw/video\sample_002632.mp4,"Wonderful, exceeded all expectations!",2
+sample_002635,data/raw/audio\sample_002635.wav,data/raw/video\sample_002635.mp4,"This was terrible, I hated every moment.",0
+sample_002645,data/raw/audio\sample_002645.wav,data/raw/video\sample_002645.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002665,data/raw/audio\sample_002665.wav,data/raw/video\sample_002665.mp4,"It was okay, not great but not bad either.",1
+sample_002679,data/raw/audio\sample_002679.wav,data/raw/video\sample_002679.mp4,"Completely disappointed, waste of time.",0
+sample_002693,data/raw/audio\sample_002693.wav,data/raw/video\sample_002693.mp4,"Awful experience, not worth watching.",0
+sample_002708,data/raw/audio\sample_002708.wav,data/raw/video\sample_002708.mp4,"This was terrible, I hated every moment.",0
+sample_002710,data/raw/audio\sample_002710.wav,data/raw/video\sample_002710.mp4,"This was terrible, I hated every moment.",0
+sample_002712,data/raw/audio\sample_002712.wav,data/raw/video\sample_002712.mp4,"This was terrible, I hated every moment.",0
+sample_002713,data/raw/audio\sample_002713.wav,data/raw/video\sample_002713.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002717,data/raw/audio\sample_002717.wav,data/raw/video\sample_002717.mp4,"Awful experience, not worth watching.",0
+sample_002738,data/raw/audio\sample_002738.wav,data/raw/video\sample_002738.mp4,"It was okay, not great but not bad either.",1
+sample_002744,data/raw/audio\sample_002744.wav,data/raw/video\sample_002744.mp4,"Completely disappointed, waste of time.",0
+sample_002745,data/raw/audio\sample_002745.wav,data/raw/video\sample_002745.mp4,Mediocre storyline but decent acting.,1
+sample_002752,data/raw/audio\sample_002752.wav,data/raw/video\sample_002752.mp4,"Wonderful, exceeded all expectations!",2
+sample_002768,data/raw/audio\sample_002768.wav,data/raw/video\sample_002768.mp4,"Wonderful, exceeded all expectations!",2
+sample_002772,data/raw/audio\sample_002772.wav,data/raw/video\sample_002772.mp4,"Completely disappointed, waste of time.",0
+sample_002779,data/raw/audio\sample_002779.wav,data/raw/video\sample_002779.mp4,"An average performance, could be better.",1
+sample_002786,data/raw/audio\sample_002786.wav,data/raw/video\sample_002786.mp4,"This was terrible, I hated every moment.",0
+sample_002790,data/raw/audio\sample_002790.wav,data/raw/video\sample_002790.mp4,"This was terrible, I hated every moment.",0
+sample_002797,data/raw/audio\sample_002797.wav,data/raw/video\sample_002797.mp4,"An average performance, could be better.",1
+sample_002811,data/raw/audio\sample_002811.wav,data/raw/video\sample_002811.mp4,"Absolutely loved it, fantastic experience!",2
+sample_002838,data/raw/audio\sample_002838.wav,data/raw/video\sample_002838.mp4,"An average performance, could be better.",1
+sample_002849,data/raw/audio\sample_002849.wav,data/raw/video\sample_002849.mp4,"It was okay, not great but not bad either.",1
+sample_002866,data/raw/audio\sample_002866.wav,data/raw/video\sample_002866.mp4,"Wonderful, exceeded all expectations!",2
+sample_002869,data/raw/audio\sample_002869.wav,data/raw/video\sample_002869.mp4,"Great film, emotional and powerful.",2
+sample_002871,data/raw/audio\sample_002871.wav,data/raw/video\sample_002871.mp4,"An average performance, could be better.",1
+sample_002872,data/raw/audio\sample_002872.wav,data/raw/video\sample_002872.mp4,"It was okay, not great but not bad either.",1
+sample_002891,data/raw/audio\sample_002891.wav,data/raw/video\sample_002891.mp4,"An average performance, could be better.",1
+sample_002896,data/raw/audio\sample_002896.wav,data/raw/video\sample_002896.mp4,Mediocre storyline but decent acting.,1
+sample_002920,data/raw/audio\sample_002920.wav,data/raw/video\sample_002920.mp4,"An average performance, could be better.",1
+sample_002923,data/raw/audio\sample_002923.wav,data/raw/video\sample_002923.mp4,"Awful experience, not worth watching.",0
+sample_002950,data/raw/audio\sample_002950.wav,data/raw/video\sample_002950.mp4,"Completely disappointed, waste of time.",0
+sample_002961,data/raw/audio\sample_002961.wav,data/raw/video\sample_002961.mp4,"Awful experience, not worth watching.",0
+sample_002978,data/raw/audio\sample_002978.wav,data/raw/video\sample_002978.mp4,"Completely disappointed, waste of time.",0
+sample_002983,data/raw/audio\sample_002983.wav,data/raw/video\sample_002983.mp4,"An average performance, could be better.",1
+sample_003020,data/raw/audio\sample_003020.wav,data/raw/video\sample_003020.mp4,"Great film, emotional and powerful.",2
+sample_003030,data/raw/audio\sample_003030.wav,data/raw/video\sample_003030.mp4,"Awful experience, not worth watching.",0
+sample_003036,data/raw/audio\sample_003036.wav,data/raw/video\sample_003036.mp4,"Completely disappointed, waste of time.",0
+sample_003054,data/raw/audio\sample_003054.wav,data/raw/video\sample_003054.mp4,Mediocre storyline but decent acting.,1
+sample_003072,data/raw/audio\sample_003072.wav,data/raw/video\sample_003072.mp4,"It was okay, not great but not bad either.",1
+sample_003073,data/raw/audio\sample_003073.wav,data/raw/video\sample_003073.mp4,"An average performance, could be better.",1
+sample_003081,data/raw/audio\sample_003081.wav,data/raw/video\sample_003081.mp4,"Wonderful, exceeded all expectations!",2
+sample_003083,data/raw/audio\sample_003083.wav,data/raw/video\sample_003083.mp4,Mediocre storyline but decent acting.,1
+sample_003093,data/raw/audio\sample_003093.wav,data/raw/video\sample_003093.mp4,"Awful experience, not worth watching.",0
+sample_003108,data/raw/audio\sample_003108.wav,data/raw/video\sample_003108.mp4,"It was okay, not great but not bad either.",1
+sample_003141,data/raw/audio\sample_003141.wav,data/raw/video\sample_003141.mp4,"Wonderful, exceeded all expectations!",2
+sample_003170,data/raw/audio\sample_003170.wav,data/raw/video\sample_003170.mp4,Mediocre storyline but decent acting.,1
+sample_003173,data/raw/audio\sample_003173.wav,data/raw/video\sample_003173.mp4,"It was okay, not great but not bad either.",1
+sample_003174,data/raw/audio\sample_003174.wav,data/raw/video\sample_003174.mp4,"It was okay, not great but not bad either.",1
+sample_003177,data/raw/audio\sample_003177.wav,data/raw/video\sample_003177.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003179,data/raw/audio\sample_003179.wav,data/raw/video\sample_003179.mp4,"Awful experience, not worth watching.",0
+sample_003223,data/raw/audio\sample_003223.wav,data/raw/video\sample_003223.mp4,"An average performance, could be better.",1
+sample_003224,data/raw/audio\sample_003224.wav,data/raw/video\sample_003224.mp4,"Awful experience, not worth watching.",0
+sample_003228,data/raw/audio\sample_003228.wav,data/raw/video\sample_003228.mp4,Mediocre storyline but decent acting.,1
+sample_003239,data/raw/audio\sample_003239.wav,data/raw/video\sample_003239.mp4,"Awful experience, not worth watching.",0
+sample_003241,data/raw/audio\sample_003241.wav,data/raw/video\sample_003241.mp4,"This was terrible, I hated every moment.",0
+sample_003242,data/raw/audio\sample_003242.wav,data/raw/video\sample_003242.mp4,"Awful experience, not worth watching.",0
+sample_003249,data/raw/audio\sample_003249.wav,data/raw/video\sample_003249.mp4,"An average performance, could be better.",1
+sample_003266,data/raw/audio\sample_003266.wav,data/raw/video\sample_003266.mp4,"Awful experience, not worth watching.",0
+sample_003273,data/raw/audio\sample_003273.wav,data/raw/video\sample_003273.mp4,"It was okay, not great but not bad either.",1
+sample_003287,data/raw/audio\sample_003287.wav,data/raw/video\sample_003287.mp4,"Awful experience, not worth watching.",0
+sample_003291,data/raw/audio\sample_003291.wav,data/raw/video\sample_003291.mp4,"Great film, emotional and powerful.",2
+sample_003294,data/raw/audio\sample_003294.wav,data/raw/video\sample_003294.mp4,"This was terrible, I hated every moment.",0
+sample_003300,data/raw/audio\sample_003300.wav,data/raw/video\sample_003300.mp4,"Wonderful, exceeded all expectations!",2
+sample_003327,data/raw/audio\sample_003327.wav,data/raw/video\sample_003327.mp4,"Completely disappointed, waste of time.",0
+sample_003330,data/raw/audio\sample_003330.wav,data/raw/video\sample_003330.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003342,data/raw/audio\sample_003342.wav,data/raw/video\sample_003342.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003343,data/raw/audio\sample_003343.wav,data/raw/video\sample_003343.mp4,"Great film, emotional and powerful.",2
+sample_003345,data/raw/audio\sample_003345.wav,data/raw/video\sample_003345.mp4,Mediocre storyline but decent acting.,1
+sample_003354,data/raw/audio\sample_003354.wav,data/raw/video\sample_003354.mp4,"It was okay, not great but not bad either.",1
+sample_003356,data/raw/audio\sample_003356.wav,data/raw/video\sample_003356.mp4,"This was terrible, I hated every moment.",0
+sample_003373,data/raw/audio\sample_003373.wav,data/raw/video\sample_003373.mp4,"Great film, emotional and powerful.",2
+sample_003374,data/raw/audio\sample_003374.wav,data/raw/video\sample_003374.mp4,"It was okay, not great but not bad either.",1
+sample_003376,data/raw/audio\sample_003376.wav,data/raw/video\sample_003376.mp4,"Completely disappointed, waste of time.",0
+sample_003385,data/raw/audio\sample_003385.wav,data/raw/video\sample_003385.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003389,data/raw/audio\sample_003389.wav,data/raw/video\sample_003389.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003391,data/raw/audio\sample_003391.wav,data/raw/video\sample_003391.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003420,data/raw/audio\sample_003420.wav,data/raw/video\sample_003420.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003430,data/raw/audio\sample_003430.wav,data/raw/video\sample_003430.mp4,Mediocre storyline but decent acting.,1
+sample_003436,data/raw/audio\sample_003436.wav,data/raw/video\sample_003436.mp4,"An average performance, could be better.",1
+sample_003440,data/raw/audio\sample_003440.wav,data/raw/video\sample_003440.mp4,"Completely disappointed, waste of time.",0
+sample_003453,data/raw/audio\sample_003453.wav,data/raw/video\sample_003453.mp4,"Completely disappointed, waste of time.",0
+sample_003466,data/raw/audio\sample_003466.wav,data/raw/video\sample_003466.mp4,"An average performance, could be better.",1
+sample_003472,data/raw/audio\sample_003472.wav,data/raw/video\sample_003472.mp4,"An average performance, could be better.",1
+sample_003476,data/raw/audio\sample_003476.wav,data/raw/video\sample_003476.mp4,"An average performance, could be better.",1
+sample_003486,data/raw/audio\sample_003486.wav,data/raw/video\sample_003486.mp4,Mediocre storyline but decent acting.,1
+sample_003490,data/raw/audio\sample_003490.wav,data/raw/video\sample_003490.mp4,"An average performance, could be better.",1
+sample_003496,data/raw/audio\sample_003496.wav,data/raw/video\sample_003496.mp4,"Wonderful, exceeded all expectations!",2
+sample_003506,data/raw/audio\sample_003506.wav,data/raw/video\sample_003506.mp4,"Awful experience, not worth watching.",0
+sample_003507,data/raw/audio\sample_003507.wav,data/raw/video\sample_003507.mp4,"Great film, emotional and powerful.",2
+sample_003510,data/raw/audio\sample_003510.wav,data/raw/video\sample_003510.mp4,"Completely disappointed, waste of time.",0
+sample_003549,data/raw/audio\sample_003549.wav,data/raw/video\sample_003549.mp4,"Great film, emotional and powerful.",2
+sample_003553,data/raw/audio\sample_003553.wav,data/raw/video\sample_003553.mp4,"This was terrible, I hated every moment.",0
+sample_003556,data/raw/audio\sample_003556.wav,data/raw/video\sample_003556.mp4,"Great film, emotional and powerful.",2
+sample_003561,data/raw/audio\sample_003561.wav,data/raw/video\sample_003561.mp4,"Wonderful, exceeded all expectations!",2
+sample_003568,data/raw/audio\sample_003568.wav,data/raw/video\sample_003568.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003572,data/raw/audio\sample_003572.wav,data/raw/video\sample_003572.mp4,"Great film, emotional and powerful.",2
+sample_003594,data/raw/audio\sample_003594.wav,data/raw/video\sample_003594.mp4,"Completely disappointed, waste of time.",0
+sample_003596,data/raw/audio\sample_003596.wav,data/raw/video\sample_003596.mp4,"Awful experience, not worth watching.",0
+sample_003610,data/raw/audio\sample_003610.wav,data/raw/video\sample_003610.mp4,"Wonderful, exceeded all expectations!",2
+sample_003633,data/raw/audio\sample_003633.wav,data/raw/video\sample_003633.mp4,"This was terrible, I hated every moment.",0
+sample_003636,data/raw/audio\sample_003636.wav,data/raw/video\sample_003636.mp4,"An average performance, could be better.",1
+sample_003638,data/raw/audio\sample_003638.wav,data/raw/video\sample_003638.mp4,Mediocre storyline but decent acting.,1
+sample_003640,data/raw/audio\sample_003640.wav,data/raw/video\sample_003640.mp4,"Awful experience, not worth watching.",0
+sample_003676,data/raw/audio\sample_003676.wav,data/raw/video\sample_003676.mp4,"It was okay, not great but not bad either.",1
+sample_003679,data/raw/audio\sample_003679.wav,data/raw/video\sample_003679.mp4,"Awful experience, not worth watching.",0
+sample_003687,data/raw/audio\sample_003687.wav,data/raw/video\sample_003687.mp4,"Awful experience, not worth watching.",0
+sample_003695,data/raw/audio\sample_003695.wav,data/raw/video\sample_003695.mp4,"Great film, emotional and powerful.",2
+sample_003701,data/raw/audio\sample_003701.wav,data/raw/video\sample_003701.mp4,"Completely disappointed, waste of time.",0
+sample_003709,data/raw/audio\sample_003709.wav,data/raw/video\sample_003709.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003713,data/raw/audio\sample_003713.wav,data/raw/video\sample_003713.mp4,"Great film, emotional and powerful.",2
+sample_003714,data/raw/audio\sample_003714.wav,data/raw/video\sample_003714.mp4,"Great film, emotional and powerful.",2
+sample_003724,data/raw/audio\sample_003724.wav,data/raw/video\sample_003724.mp4,"Great film, emotional and powerful.",2
+sample_003725,data/raw/audio\sample_003725.wav,data/raw/video\sample_003725.mp4,Mediocre storyline but decent acting.,1
+sample_003726,data/raw/audio\sample_003726.wav,data/raw/video\sample_003726.mp4,"Completely disappointed, waste of time.",0
+sample_003735,data/raw/audio\sample_003735.wav,data/raw/video\sample_003735.mp4,"Awful experience, not worth watching.",0
+sample_003741,data/raw/audio\sample_003741.wav,data/raw/video\sample_003741.mp4,"Completely disappointed, waste of time.",0
+sample_003762,data/raw/audio\sample_003762.wav,data/raw/video\sample_003762.mp4,"Great film, emotional and powerful.",2
+sample_003763,data/raw/audio\sample_003763.wav,data/raw/video\sample_003763.mp4,Mediocre storyline but decent acting.,1
+sample_003766,data/raw/audio\sample_003766.wav,data/raw/video\sample_003766.mp4,"Wonderful, exceeded all expectations!",2
+sample_003769,data/raw/audio\sample_003769.wav,data/raw/video\sample_003769.mp4,"Great film, emotional and powerful.",2
+sample_003775,data/raw/audio\sample_003775.wav,data/raw/video\sample_003775.mp4,"Wonderful, exceeded all expectations!",2
+sample_003788,data/raw/audio\sample_003788.wav,data/raw/video\sample_003788.mp4,Mediocre storyline but decent acting.,1
+sample_003818,data/raw/audio\sample_003818.wav,data/raw/video\sample_003818.mp4,"An average performance, could be better.",1
+sample_003840,data/raw/audio\sample_003840.wav,data/raw/video\sample_003840.mp4,"Completely disappointed, waste of time.",0
+sample_003843,data/raw/audio\sample_003843.wav,data/raw/video\sample_003843.mp4,"Completely disappointed, waste of time.",0
+sample_003845,data/raw/audio\sample_003845.wav,data/raw/video\sample_003845.mp4,"An average performance, could be better.",1
+sample_003850,data/raw/audio\sample_003850.wav,data/raw/video\sample_003850.mp4,"Absolutely loved it, fantastic experience!",2
+sample_003874,data/raw/audio\sample_003874.wav,data/raw/video\sample_003874.mp4,"Awful experience, not worth watching.",0
+sample_003890,data/raw/audio\sample_003890.wav,data/raw/video\sample_003890.mp4,"It was okay, not great but not bad either.",1
+sample_003900,data/raw/audio\sample_003900.wav,data/raw/video\sample_003900.mp4,"Awful experience, not worth watching.",0
+sample_003911,data/raw/audio\sample_003911.wav,data/raw/video\sample_003911.mp4,Mediocre storyline but decent acting.,1
+sample_003925,data/raw/audio\sample_003925.wav,data/raw/video\sample_003925.mp4,"Great film, emotional and powerful.",2
+sample_003943,data/raw/audio\sample_003943.wav,data/raw/video\sample_003943.mp4,"Awful experience, not worth watching.",0
+sample_003953,data/raw/audio\sample_003953.wav,data/raw/video\sample_003953.mp4,"Completely disappointed, waste of time.",0
+sample_003976,data/raw/audio\sample_003976.wav,data/raw/video\sample_003976.mp4,Mediocre storyline but decent acting.,1
+sample_004000,data/raw/audio\sample_004000.wav,data/raw/video\sample_004000.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004014,data/raw/audio\sample_004014.wav,data/raw/video\sample_004014.mp4,"Completely disappointed, waste of time.",0
+sample_004037,data/raw/audio\sample_004037.wav,data/raw/video\sample_004037.mp4,"It was okay, not great but not bad either.",1
+sample_004061,data/raw/audio\sample_004061.wav,data/raw/video\sample_004061.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004070,data/raw/audio\sample_004070.wav,data/raw/video\sample_004070.mp4,"This was terrible, I hated every moment.",0
+sample_004079,data/raw/audio\sample_004079.wav,data/raw/video\sample_004079.mp4,"Completely disappointed, waste of time.",0
+sample_004090,data/raw/audio\sample_004090.wav,data/raw/video\sample_004090.mp4,"It was okay, not great but not bad either.",1
+sample_004107,data/raw/audio\sample_004107.wav,data/raw/video\sample_004107.mp4,"Great film, emotional and powerful.",2
+sample_004109,data/raw/audio\sample_004109.wav,data/raw/video\sample_004109.mp4,"Wonderful, exceeded all expectations!",2
+sample_004114,data/raw/audio\sample_004114.wav,data/raw/video\sample_004114.mp4,"It was okay, not great but not bad either.",1
+sample_004133,data/raw/audio\sample_004133.wav,data/raw/video\sample_004133.mp4,"Great film, emotional and powerful.",2
+sample_004137,data/raw/audio\sample_004137.wav,data/raw/video\sample_004137.mp4,"Awful experience, not worth watching.",0
+sample_004142,data/raw/audio\sample_004142.wav,data/raw/video\sample_004142.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004143,data/raw/audio\sample_004143.wav,data/raw/video\sample_004143.mp4,"This was terrible, I hated every moment.",0
+sample_004146,data/raw/audio\sample_004146.wav,data/raw/video\sample_004146.mp4,"Awful experience, not worth watching.",0
+sample_004175,data/raw/audio\sample_004175.wav,data/raw/video\sample_004175.mp4,"Awful experience, not worth watching.",0
+sample_004179,data/raw/audio\sample_004179.wav,data/raw/video\sample_004179.mp4,"Wonderful, exceeded all expectations!",2
+sample_004186,data/raw/audio\sample_004186.wav,data/raw/video\sample_004186.mp4,"Great film, emotional and powerful.",2
+sample_004206,data/raw/audio\sample_004206.wav,data/raw/video\sample_004206.mp4,Mediocre storyline but decent acting.,1
+sample_004208,data/raw/audio\sample_004208.wav,data/raw/video\sample_004208.mp4,"It was okay, not great but not bad either.",1
+sample_004211,data/raw/audio\sample_004211.wav,data/raw/video\sample_004211.mp4,"An average performance, could be better.",1
+sample_004218,data/raw/audio\sample_004218.wav,data/raw/video\sample_004218.mp4,"It was okay, not great but not bad either.",1
+sample_004223,data/raw/audio\sample_004223.wav,data/raw/video\sample_004223.mp4,"It was okay, not great but not bad either.",1
+sample_004225,data/raw/audio\sample_004225.wav,data/raw/video\sample_004225.mp4,"This was terrible, I hated every moment.",0
+sample_004227,data/raw/audio\sample_004227.wav,data/raw/video\sample_004227.mp4,"This was terrible, I hated every moment.",0
+sample_004234,data/raw/audio\sample_004234.wav,data/raw/video\sample_004234.mp4,"Wonderful, exceeded all expectations!",2
+sample_004242,data/raw/audio\sample_004242.wav,data/raw/video\sample_004242.mp4,Mediocre storyline but decent acting.,1
+sample_004244,data/raw/audio\sample_004244.wav,data/raw/video\sample_004244.mp4,Mediocre storyline but decent acting.,1
+sample_004255,data/raw/audio\sample_004255.wav,data/raw/video\sample_004255.mp4,"It was okay, not great but not bad either.",1
+sample_004261,data/raw/audio\sample_004261.wav,data/raw/video\sample_004261.mp4,"This was terrible, I hated every moment.",0
+sample_004278,data/raw/audio\sample_004278.wav,data/raw/video\sample_004278.mp4,Mediocre storyline but decent acting.,1
+sample_004285,data/raw/audio\sample_004285.wav,data/raw/video\sample_004285.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004297,data/raw/audio\sample_004297.wav,data/raw/video\sample_004297.mp4,"Wonderful, exceeded all expectations!",2
+sample_004300,data/raw/audio\sample_004300.wav,data/raw/video\sample_004300.mp4,"An average performance, could be better.",1
+sample_004311,data/raw/audio\sample_004311.wav,data/raw/video\sample_004311.mp4,Mediocre storyline but decent acting.,1
+sample_004324,data/raw/audio\sample_004324.wav,data/raw/video\sample_004324.mp4,"Awful experience, not worth watching.",0
+sample_004330,data/raw/audio\sample_004330.wav,data/raw/video\sample_004330.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004346,data/raw/audio\sample_004346.wav,data/raw/video\sample_004346.mp4,"An average performance, could be better.",1
+sample_004349,data/raw/audio\sample_004349.wav,data/raw/video\sample_004349.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004356,data/raw/audio\sample_004356.wav,data/raw/video\sample_004356.mp4,"Completely disappointed, waste of time.",0
+sample_004360,data/raw/audio\sample_004360.wav,data/raw/video\sample_004360.mp4,"It was okay, not great but not bad either.",1
+sample_004363,data/raw/audio\sample_004363.wav,data/raw/video\sample_004363.mp4,"Completely disappointed, waste of time.",0
+sample_004388,data/raw/audio\sample_004388.wav,data/raw/video\sample_004388.mp4,"This was terrible, I hated every moment.",0
+sample_004406,data/raw/audio\sample_004406.wav,data/raw/video\sample_004406.mp4,"Completely disappointed, waste of time.",0
+sample_004425,data/raw/audio\sample_004425.wav,data/raw/video\sample_004425.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004430,data/raw/audio\sample_004430.wav,data/raw/video\sample_004430.mp4,"Great film, emotional and powerful.",2
+sample_004432,data/raw/audio\sample_004432.wav,data/raw/video\sample_004432.mp4,Mediocre storyline but decent acting.,1
+sample_004433,data/raw/audio\sample_004433.wav,data/raw/video\sample_004433.mp4,"This was terrible, I hated every moment.",0
+sample_004435,data/raw/audio\sample_004435.wav,data/raw/video\sample_004435.mp4,"Completely disappointed, waste of time.",0
+sample_004443,data/raw/audio\sample_004443.wav,data/raw/video\sample_004443.mp4,"Great film, emotional and powerful.",2
+sample_004445,data/raw/audio\sample_004445.wav,data/raw/video\sample_004445.mp4,Mediocre storyline but decent acting.,1
+sample_004451,data/raw/audio\sample_004451.wav,data/raw/video\sample_004451.mp4,Mediocre storyline but decent acting.,1
+sample_004452,data/raw/audio\sample_004452.wav,data/raw/video\sample_004452.mp4,"Completely disappointed, waste of time.",0
+sample_004468,data/raw/audio\sample_004468.wav,data/raw/video\sample_004468.mp4,"Great film, emotional and powerful.",2
+sample_004473,data/raw/audio\sample_004473.wav,data/raw/video\sample_004473.mp4,"Completely disappointed, waste of time.",0
+sample_004485,data/raw/audio\sample_004485.wav,data/raw/video\sample_004485.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004488,data/raw/audio\sample_004488.wav,data/raw/video\sample_004488.mp4,"Wonderful, exceeded all expectations!",2
+sample_004491,data/raw/audio\sample_004491.wav,data/raw/video\sample_004491.mp4,"Completely disappointed, waste of time.",0
+sample_004496,data/raw/audio\sample_004496.wav,data/raw/video\sample_004496.mp4,"This was terrible, I hated every moment.",0
+sample_004497,data/raw/audio\sample_004497.wav,data/raw/video\sample_004497.mp4,"It was okay, not great but not bad either.",1
+sample_004530,data/raw/audio\sample_004530.wav,data/raw/video\sample_004530.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004543,data/raw/audio\sample_004543.wav,data/raw/video\sample_004543.mp4,Mediocre storyline but decent acting.,1
+sample_004544,data/raw/audio\sample_004544.wav,data/raw/video\sample_004544.mp4,"Awful experience, not worth watching.",0
+sample_004547,data/raw/audio\sample_004547.wav,data/raw/video\sample_004547.mp4,"This was terrible, I hated every moment.",0
+sample_004548,data/raw/audio\sample_004548.wav,data/raw/video\sample_004548.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004551,data/raw/audio\sample_004551.wav,data/raw/video\sample_004551.mp4,"Wonderful, exceeded all expectations!",2
+sample_004569,data/raw/audio\sample_004569.wav,data/raw/video\sample_004569.mp4,"It was okay, not great but not bad either.",1
+sample_004616,data/raw/audio\sample_004616.wav,data/raw/video\sample_004616.mp4,"An average performance, could be better.",1
+sample_004636,data/raw/audio\sample_004636.wav,data/raw/video\sample_004636.mp4,"Great film, emotional and powerful.",2
+sample_004637,data/raw/audio\sample_004637.wav,data/raw/video\sample_004637.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004642,data/raw/audio\sample_004642.wav,data/raw/video\sample_004642.mp4,"Completely disappointed, waste of time.",0
+sample_004670,data/raw/audio\sample_004670.wav,data/raw/video\sample_004670.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004673,data/raw/audio\sample_004673.wav,data/raw/video\sample_004673.mp4,"Completely disappointed, waste of time.",0
+sample_004675,data/raw/audio\sample_004675.wav,data/raw/video\sample_004675.mp4,"This was terrible, I hated every moment.",0
+sample_004729,data/raw/audio\sample_004729.wav,data/raw/video\sample_004729.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004736,data/raw/audio\sample_004736.wav,data/raw/video\sample_004736.mp4,"Completely disappointed, waste of time.",0
+sample_004737,data/raw/audio\sample_004737.wav,data/raw/video\sample_004737.mp4,Mediocre storyline but decent acting.,1
+sample_004748,data/raw/audio\sample_004748.wav,data/raw/video\sample_004748.mp4,"Awful experience, not worth watching.",0
+sample_004777,data/raw/audio\sample_004777.wav,data/raw/video\sample_004777.mp4,"Completely disappointed, waste of time.",0
+sample_004780,data/raw/audio\sample_004780.wav,data/raw/video\sample_004780.mp4,"Awful experience, not worth watching.",0
+sample_004784,data/raw/audio\sample_004784.wav,data/raw/video\sample_004784.mp4,"An average performance, could be better.",1
+sample_004815,data/raw/audio\sample_004815.wav,data/raw/video\sample_004815.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004820,data/raw/audio\sample_004820.wav,data/raw/video\sample_004820.mp4,"This was terrible, I hated every moment.",0
+sample_004831,data/raw/audio\sample_004831.wav,data/raw/video\sample_004831.mp4,"Wonderful, exceeded all expectations!",2
+sample_004849,data/raw/audio\sample_004849.wav,data/raw/video\sample_004849.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004854,data/raw/audio\sample_004854.wav,data/raw/video\sample_004854.mp4,"Completely disappointed, waste of time.",0
+sample_004858,data/raw/audio\sample_004858.wav,data/raw/video\sample_004858.mp4,"An average performance, could be better.",1
+sample_004859,data/raw/audio\sample_004859.wav,data/raw/video\sample_004859.mp4,Mediocre storyline but decent acting.,1
+sample_004869,data/raw/audio\sample_004869.wav,data/raw/video\sample_004869.mp4,"Absolutely loved it, fantastic experience!",2
+sample_004873,data/raw/audio\sample_004873.wav,data/raw/video\sample_004873.mp4,"An average performance, could be better.",1
+sample_004876,data/raw/audio\sample_004876.wav,data/raw/video\sample_004876.mp4,"This was terrible, I hated every moment.",0
+sample_004882,data/raw/audio\sample_004882.wav,data/raw/video\sample_004882.mp4,"Great film, emotional and powerful.",2
+sample_004887,data/raw/audio\sample_004887.wav,data/raw/video\sample_004887.mp4,"Wonderful, exceeded all expectations!",2
+sample_004892,data/raw/audio\sample_004892.wav,data/raw/video\sample_004892.mp4,"Wonderful, exceeded all expectations!",2
+sample_004911,data/raw/audio\sample_004911.wav,data/raw/video\sample_004911.mp4,"An average performance, could be better.",1
+sample_004926,data/raw/audio\sample_004926.wav,data/raw/video\sample_004926.mp4,"Completely disappointed, waste of time.",0
+sample_004930,data/raw/audio\sample_004930.wav,data/raw/video\sample_004930.mp4,Mediocre storyline but decent acting.,1
+sample_004931,data/raw/audio\sample_004931.wav,data/raw/video\sample_004931.mp4,"Great film, emotional and powerful.",2
+sample_004944,data/raw/audio\sample_004944.wav,data/raw/video\sample_004944.mp4,"Awful experience, not worth watching.",0
+sample_004968,data/raw/audio\sample_004968.wav,data/raw/video\sample_004968.mp4,"Great film, emotional and powerful.",2
+sample_004973,data/raw/audio\sample_004973.wav,data/raw/video\sample_004973.mp4,"It was okay, not great but not bad either.",1
+sample_005005,data/raw/audio\sample_005005.wav,data/raw/video\sample_005005.mp4,"Great film, emotional and powerful.",2
+sample_005010,data/raw/audio\sample_005010.wav,data/raw/video\sample_005010.mp4,"Great film, emotional and powerful.",2
+sample_005029,data/raw/audio\sample_005029.wav,data/raw/video\sample_005029.mp4,"Great film, emotional and powerful.",2
+sample_005056,data/raw/audio\sample_005056.wav,data/raw/video\sample_005056.mp4,"Wonderful, exceeded all expectations!",2
+sample_005068,data/raw/audio\sample_005068.wav,data/raw/video\sample_005068.mp4,"Great film, emotional and powerful.",2
+sample_005073,data/raw/audio\sample_005073.wav,data/raw/video\sample_005073.mp4,"Awful experience, not worth watching.",0
+sample_005084,data/raw/audio\sample_005084.wav,data/raw/video\sample_005084.mp4,"It was okay, not great but not bad either.",1
+sample_005085,data/raw/audio\sample_005085.wav,data/raw/video\sample_005085.mp4,"Great film, emotional and powerful.",2
+sample_005088,data/raw/audio\sample_005088.wav,data/raw/video\sample_005088.mp4,"It was okay, not great but not bad either.",1
+sample_005115,data/raw/audio\sample_005115.wav,data/raw/video\sample_005115.mp4,"This was terrible, I hated every moment.",0
+sample_005116,data/raw/audio\sample_005116.wav,data/raw/video\sample_005116.mp4,"An average performance, could be better.",1
+sample_005136,data/raw/audio\sample_005136.wav,data/raw/video\sample_005136.mp4,"Great film, emotional and powerful.",2
+sample_005161,data/raw/audio\sample_005161.wav,data/raw/video\sample_005161.mp4,"Awful experience, not worth watching.",0
+sample_005172,data/raw/audio\sample_005172.wav,data/raw/video\sample_005172.mp4,"Completely disappointed, waste of time.",0
+sample_005177,data/raw/audio\sample_005177.wav,data/raw/video\sample_005177.mp4,"This was terrible, I hated every moment.",0
+sample_005178,data/raw/audio\sample_005178.wav,data/raw/video\sample_005178.mp4,"An average performance, could be better.",1
+sample_005179,data/raw/audio\sample_005179.wav,data/raw/video\sample_005179.mp4,"Great film, emotional and powerful.",2
+sample_005182,data/raw/audio\sample_005182.wav,data/raw/video\sample_005182.mp4,"Completely disappointed, waste of time.",0
+sample_005189,data/raw/audio\sample_005189.wav,data/raw/video\sample_005189.mp4,"Great film, emotional and powerful.",2
+sample_005191,data/raw/audio\sample_005191.wav,data/raw/video\sample_005191.mp4,"Great film, emotional and powerful.",2
+sample_005203,data/raw/audio\sample_005203.wav,data/raw/video\sample_005203.mp4,"Completely disappointed, waste of time.",0
+sample_005218,data/raw/audio\sample_005218.wav,data/raw/video\sample_005218.mp4,"This was terrible, I hated every moment.",0
+sample_005222,data/raw/audio\sample_005222.wav,data/raw/video\sample_005222.mp4,"Completely disappointed, waste of time.",0
+sample_005232,data/raw/audio\sample_005232.wav,data/raw/video\sample_005232.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005237,data/raw/audio\sample_005237.wav,data/raw/video\sample_005237.mp4,"Completely disappointed, waste of time.",0
+sample_005240,data/raw/audio\sample_005240.wav,data/raw/video\sample_005240.mp4,"This was terrible, I hated every moment.",0
+sample_005243,data/raw/audio\sample_005243.wav,data/raw/video\sample_005243.mp4,"Great film, emotional and powerful.",2
+sample_005249,data/raw/audio\sample_005249.wav,data/raw/video\sample_005249.mp4,"Wonderful, exceeded all expectations!",2
+sample_005258,data/raw/audio\sample_005258.wav,data/raw/video\sample_005258.mp4,"Awful experience, not worth watching.",0
+sample_005287,data/raw/audio\sample_005287.wav,data/raw/video\sample_005287.mp4,"Great film, emotional and powerful.",2
+sample_005291,data/raw/audio\sample_005291.wav,data/raw/video\sample_005291.mp4,Mediocre storyline but decent acting.,1
+sample_005299,data/raw/audio\sample_005299.wav,data/raw/video\sample_005299.mp4,Mediocre storyline but decent acting.,1
+sample_005301,data/raw/audio\sample_005301.wav,data/raw/video\sample_005301.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005305,data/raw/audio\sample_005305.wav,data/raw/video\sample_005305.mp4,"Completely disappointed, waste of time.",0
+sample_005311,data/raw/audio\sample_005311.wav,data/raw/video\sample_005311.mp4,"An average performance, could be better.",1
+sample_005315,data/raw/audio\sample_005315.wav,data/raw/video\sample_005315.mp4,"It was okay, not great but not bad either.",1
+sample_005320,data/raw/audio\sample_005320.wav,data/raw/video\sample_005320.mp4,"An average performance, could be better.",1
+sample_005334,data/raw/audio\sample_005334.wav,data/raw/video\sample_005334.mp4,"This was terrible, I hated every moment.",0
+sample_005343,data/raw/audio\sample_005343.wav,data/raw/video\sample_005343.mp4,"Completely disappointed, waste of time.",0
+sample_005370,data/raw/audio\sample_005370.wav,data/raw/video\sample_005370.mp4,"Awful experience, not worth watching.",0
+sample_005383,data/raw/audio\sample_005383.wav,data/raw/video\sample_005383.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005387,data/raw/audio\sample_005387.wav,data/raw/video\sample_005387.mp4,"Awful experience, not worth watching.",0
+sample_005392,data/raw/audio\sample_005392.wav,data/raw/video\sample_005392.mp4,"Awful experience, not worth watching.",0
+sample_005401,data/raw/audio\sample_005401.wav,data/raw/video\sample_005401.mp4,"This was terrible, I hated every moment.",0
+sample_005408,data/raw/audio\sample_005408.wav,data/raw/video\sample_005408.mp4,"This was terrible, I hated every moment.",0
+sample_005415,data/raw/audio\sample_005415.wav,data/raw/video\sample_005415.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005429,data/raw/audio\sample_005429.wav,data/raw/video\sample_005429.mp4,Mediocre storyline but decent acting.,1
+sample_005435,data/raw/audio\sample_005435.wav,data/raw/video\sample_005435.mp4,"Wonderful, exceeded all expectations!",2
+sample_005442,data/raw/audio\sample_005442.wav,data/raw/video\sample_005442.mp4,"Wonderful, exceeded all expectations!",2
+sample_005445,data/raw/audio\sample_005445.wav,data/raw/video\sample_005445.mp4,"Completely disappointed, waste of time.",0
+sample_005449,data/raw/audio\sample_005449.wav,data/raw/video\sample_005449.mp4,"Completely disappointed, waste of time.",0
+sample_005463,data/raw/audio\sample_005463.wav,data/raw/video\sample_005463.mp4,"Great film, emotional and powerful.",2
+sample_005468,data/raw/audio\sample_005468.wav,data/raw/video\sample_005468.mp4,"It was okay, not great but not bad either.",1
+sample_005475,data/raw/audio\sample_005475.wav,data/raw/video\sample_005475.mp4,Mediocre storyline but decent acting.,1
+sample_005490,data/raw/audio\sample_005490.wav,data/raw/video\sample_005490.mp4,Mediocre storyline but decent acting.,1
+sample_005495,data/raw/audio\sample_005495.wav,data/raw/video\sample_005495.mp4,"Completely disappointed, waste of time.",0
+sample_005534,data/raw/audio\sample_005534.wav,data/raw/video\sample_005534.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005536,data/raw/audio\sample_005536.wav,data/raw/video\sample_005536.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005548,data/raw/audio\sample_005548.wav,data/raw/video\sample_005548.mp4,"It was okay, not great but not bad either.",1
+sample_005560,data/raw/audio\sample_005560.wav,data/raw/video\sample_005560.mp4,"An average performance, could be better.",1
+sample_005567,data/raw/audio\sample_005567.wav,data/raw/video\sample_005567.mp4,"Completely disappointed, waste of time.",0
+sample_005575,data/raw/audio\sample_005575.wav,data/raw/video\sample_005575.mp4,"Wonderful, exceeded all expectations!",2
+sample_005578,data/raw/audio\sample_005578.wav,data/raw/video\sample_005578.mp4,"It was okay, not great but not bad either.",1
+sample_005582,data/raw/audio\sample_005582.wav,data/raw/video\sample_005582.mp4,"Wonderful, exceeded all expectations!",2
+sample_005588,data/raw/audio\sample_005588.wav,data/raw/video\sample_005588.mp4,Mediocre storyline but decent acting.,1
+sample_005600,data/raw/audio\sample_005600.wav,data/raw/video\sample_005600.mp4,"It was okay, not great but not bad either.",1
+sample_005622,data/raw/audio\sample_005622.wav,data/raw/video\sample_005622.mp4,"This was terrible, I hated every moment.",0
+sample_005625,data/raw/audio\sample_005625.wav,data/raw/video\sample_005625.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005644,data/raw/audio\sample_005644.wav,data/raw/video\sample_005644.mp4,"Great film, emotional and powerful.",2
+sample_005655,data/raw/audio\sample_005655.wav,data/raw/video\sample_005655.mp4,"Awful experience, not worth watching.",0
+sample_005658,data/raw/audio\sample_005658.wav,data/raw/video\sample_005658.mp4,"An average performance, could be better.",1
+sample_005690,data/raw/audio\sample_005690.wav,data/raw/video\sample_005690.mp4,"Wonderful, exceeded all expectations!",2
+sample_005704,data/raw/audio\sample_005704.wav,data/raw/video\sample_005704.mp4,"It was okay, not great but not bad either.",1
+sample_005713,data/raw/audio\sample_005713.wav,data/raw/video\sample_005713.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005732,data/raw/audio\sample_005732.wav,data/raw/video\sample_005732.mp4,"Great film, emotional and powerful.",2
+sample_005734,data/raw/audio\sample_005734.wav,data/raw/video\sample_005734.mp4,"Awful experience, not worth watching.",0
+sample_005742,data/raw/audio\sample_005742.wav,data/raw/video\sample_005742.mp4,"Awful experience, not worth watching.",0
+sample_005745,data/raw/audio\sample_005745.wav,data/raw/video\sample_005745.mp4,"Great film, emotional and powerful.",2
+sample_005750,data/raw/audio\sample_005750.wav,data/raw/video\sample_005750.mp4,"Awful experience, not worth watching.",0
+sample_005759,data/raw/audio\sample_005759.wav,data/raw/video\sample_005759.mp4,"An average performance, could be better.",1
+sample_005765,data/raw/audio\sample_005765.wav,data/raw/video\sample_005765.mp4,"This was terrible, I hated every moment.",0
+sample_005772,data/raw/audio\sample_005772.wav,data/raw/video\sample_005772.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005777,data/raw/audio\sample_005777.wav,data/raw/video\sample_005777.mp4,Mediocre storyline but decent acting.,1
+sample_005779,data/raw/audio\sample_005779.wav,data/raw/video\sample_005779.mp4,Mediocre storyline but decent acting.,1
+sample_005782,data/raw/audio\sample_005782.wav,data/raw/video\sample_005782.mp4,"Awful experience, not worth watching.",0
+sample_005788,data/raw/audio\sample_005788.wav,data/raw/video\sample_005788.mp4,"Great film, emotional and powerful.",2
+sample_005789,data/raw/audio\sample_005789.wav,data/raw/video\sample_005789.mp4,"Great film, emotional and powerful.",2
+sample_005791,data/raw/audio\sample_005791.wav,data/raw/video\sample_005791.mp4,"It was okay, not great but not bad either.",1
+sample_005796,data/raw/audio\sample_005796.wav,data/raw/video\sample_005796.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005797,data/raw/audio\sample_005797.wav,data/raw/video\sample_005797.mp4,Mediocre storyline but decent acting.,1
+sample_005811,data/raw/audio\sample_005811.wav,data/raw/video\sample_005811.mp4,"Awful experience, not worth watching.",0
+sample_005854,data/raw/audio\sample_005854.wav,data/raw/video\sample_005854.mp4,"Great film, emotional and powerful.",2
+sample_005855,data/raw/audio\sample_005855.wav,data/raw/video\sample_005855.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005864,data/raw/audio\sample_005864.wav,data/raw/video\sample_005864.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005877,data/raw/audio\sample_005877.wav,data/raw/video\sample_005877.mp4,"Absolutely loved it, fantastic experience!",2
+sample_005878,data/raw/audio\sample_005878.wav,data/raw/video\sample_005878.mp4,"This was terrible, I hated every moment.",0
+sample_005881,data/raw/audio\sample_005881.wav,data/raw/video\sample_005881.mp4,"An average performance, could be better.",1
+sample_005892,data/raw/audio\sample_005892.wav,data/raw/video\sample_005892.mp4,"Great film, emotional and powerful.",2
+sample_005895,data/raw/audio\sample_005895.wav,data/raw/video\sample_005895.mp4,"An average performance, could be better.",1
+sample_005901,data/raw/audio\sample_005901.wav,data/raw/video\sample_005901.mp4,"Great film, emotional and powerful.",2
+sample_005917,data/raw/audio\sample_005917.wav,data/raw/video\sample_005917.mp4,"It was okay, not great but not bad either.",1
+sample_005919,data/raw/audio\sample_005919.wav,data/raw/video\sample_005919.mp4,"An average performance, could be better.",1
+sample_005949,data/raw/audio\sample_005949.wav,data/raw/video\sample_005949.mp4,Mediocre storyline but decent acting.,1
+sample_005951,data/raw/audio\sample_005951.wav,data/raw/video\sample_005951.mp4,"An average performance, could be better.",1
+sample_005954,data/raw/audio\sample_005954.wav,data/raw/video\sample_005954.mp4,"Completely disappointed, waste of time.",0
+sample_005959,data/raw/audio\sample_005959.wav,data/raw/video\sample_005959.mp4,"Great film, emotional and powerful.",2
+sample_005962,data/raw/audio\sample_005962.wav,data/raw/video\sample_005962.mp4,"Completely disappointed, waste of time.",0
+sample_005966,data/raw/audio\sample_005966.wav,data/raw/video\sample_005966.mp4,"This was terrible, I hated every moment.",0
+sample_005971,data/raw/audio\sample_005971.wav,data/raw/video\sample_005971.mp4,"This was terrible, I hated every moment.",0
+sample_005977,data/raw/audio\sample_005977.wav,data/raw/video\sample_005977.mp4,"An average performance, could be better.",1
+sample_006002,data/raw/audio\sample_006002.wav,data/raw/video\sample_006002.mp4,"Great film, emotional and powerful.",2
+sample_006016,data/raw/audio\sample_006016.wav,data/raw/video\sample_006016.mp4,"An average performance, could be better.",1
+sample_006019,data/raw/audio\sample_006019.wav,data/raw/video\sample_006019.mp4,"Great film, emotional and powerful.",2
+sample_006028,data/raw/audio\sample_006028.wav,data/raw/video\sample_006028.mp4,"Great film, emotional and powerful.",2
+sample_006031,data/raw/audio\sample_006031.wav,data/raw/video\sample_006031.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006035,data/raw/audio\sample_006035.wav,data/raw/video\sample_006035.mp4,"An average performance, could be better.",1
+sample_006047,data/raw/audio\sample_006047.wav,data/raw/video\sample_006047.mp4,Mediocre storyline but decent acting.,1
+sample_006075,data/raw/audio\sample_006075.wav,data/raw/video\sample_006075.mp4,"It was okay, not great but not bad either.",1
+sample_006078,data/raw/audio\sample_006078.wav,data/raw/video\sample_006078.mp4,"Awful experience, not worth watching.",0
+sample_006089,data/raw/audio\sample_006089.wav,data/raw/video\sample_006089.mp4,Mediocre storyline but decent acting.,1
+sample_006097,data/raw/audio\sample_006097.wav,data/raw/video\sample_006097.mp4,"Great film, emotional and powerful.",2
+sample_006102,data/raw/audio\sample_006102.wav,data/raw/video\sample_006102.mp4,"It was okay, not great but not bad either.",1
+sample_006116,data/raw/audio\sample_006116.wav,data/raw/video\sample_006116.mp4,"It was okay, not great but not bad either.",1
+sample_006132,data/raw/audio\sample_006132.wav,data/raw/video\sample_006132.mp4,"It was okay, not great but not bad either.",1
+sample_006150,data/raw/audio\sample_006150.wav,data/raw/video\sample_006150.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006166,data/raw/audio\sample_006166.wav,data/raw/video\sample_006166.mp4,"Awful experience, not worth watching.",0
+sample_006168,data/raw/audio\sample_006168.wav,data/raw/video\sample_006168.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006172,data/raw/audio\sample_006172.wav,data/raw/video\sample_006172.mp4,"It was okay, not great but not bad either.",1
+sample_006183,data/raw/audio\sample_006183.wav,data/raw/video\sample_006183.mp4,"Great film, emotional and powerful.",2
+sample_006184,data/raw/audio\sample_006184.wav,data/raw/video\sample_006184.mp4,"It was okay, not great but not bad either.",1
+sample_006185,data/raw/audio\sample_006185.wav,data/raw/video\sample_006185.mp4,"Great film, emotional and powerful.",2
+sample_006190,data/raw/audio\sample_006190.wav,data/raw/video\sample_006190.mp4,"Awful experience, not worth watching.",0
+sample_006212,data/raw/audio\sample_006212.wav,data/raw/video\sample_006212.mp4,"Great film, emotional and powerful.",2
+sample_006228,data/raw/audio\sample_006228.wav,data/raw/video\sample_006228.mp4,"Awful experience, not worth watching.",0
+sample_006229,data/raw/audio\sample_006229.wav,data/raw/video\sample_006229.mp4,"Wonderful, exceeded all expectations!",2
+sample_006236,data/raw/audio\sample_006236.wav,data/raw/video\sample_006236.mp4,"This was terrible, I hated every moment.",0
+sample_006241,data/raw/audio\sample_006241.wav,data/raw/video\sample_006241.mp4,"Wonderful, exceeded all expectations!",2
+sample_006257,data/raw/audio\sample_006257.wav,data/raw/video\sample_006257.mp4,"An average performance, could be better.",1
+sample_006262,data/raw/audio\sample_006262.wav,data/raw/video\sample_006262.mp4,"An average performance, could be better.",1
+sample_006283,data/raw/audio\sample_006283.wav,data/raw/video\sample_006283.mp4,Mediocre storyline but decent acting.,1
+sample_006287,data/raw/audio\sample_006287.wav,data/raw/video\sample_006287.mp4,"Awful experience, not worth watching.",0
+sample_006293,data/raw/audio\sample_006293.wav,data/raw/video\sample_006293.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006295,data/raw/audio\sample_006295.wav,data/raw/video\sample_006295.mp4,"Completely disappointed, waste of time.",0
+sample_006313,data/raw/audio\sample_006313.wav,data/raw/video\sample_006313.mp4,"Wonderful, exceeded all expectations!",2
+sample_006320,data/raw/audio\sample_006320.wav,data/raw/video\sample_006320.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006342,data/raw/audio\sample_006342.wav,data/raw/video\sample_006342.mp4,"Awful experience, not worth watching.",0
+sample_006359,data/raw/audio\sample_006359.wav,data/raw/video\sample_006359.mp4,"Completely disappointed, waste of time.",0
+sample_006371,data/raw/audio\sample_006371.wav,data/raw/video\sample_006371.mp4,"Wonderful, exceeded all expectations!",2
+sample_006376,data/raw/audio\sample_006376.wav,data/raw/video\sample_006376.mp4,"Wonderful, exceeded all expectations!",2
+sample_006396,data/raw/audio\sample_006396.wav,data/raw/video\sample_006396.mp4,Mediocre storyline but decent acting.,1
+sample_006402,data/raw/audio\sample_006402.wav,data/raw/video\sample_006402.mp4,"Awful experience, not worth watching.",0
+sample_006406,data/raw/audio\sample_006406.wav,data/raw/video\sample_006406.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006413,data/raw/audio\sample_006413.wav,data/raw/video\sample_006413.mp4,"An average performance, could be better.",1
+sample_006420,data/raw/audio\sample_006420.wav,data/raw/video\sample_006420.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006441,data/raw/audio\sample_006441.wav,data/raw/video\sample_006441.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006457,data/raw/audio\sample_006457.wav,data/raw/video\sample_006457.mp4,"Awful experience, not worth watching.",0
+sample_006467,data/raw/audio\sample_006467.wav,data/raw/video\sample_006467.mp4,"This was terrible, I hated every moment.",0
+sample_006471,data/raw/audio\sample_006471.wav,data/raw/video\sample_006471.mp4,"Great film, emotional and powerful.",2
+sample_006477,data/raw/audio\sample_006477.wav,data/raw/video\sample_006477.mp4,"An average performance, could be better.",1
+sample_006484,data/raw/audio\sample_006484.wav,data/raw/video\sample_006484.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006488,data/raw/audio\sample_006488.wav,data/raw/video\sample_006488.mp4,"Completely disappointed, waste of time.",0
+sample_006524,data/raw/audio\sample_006524.wav,data/raw/video\sample_006524.mp4,"This was terrible, I hated every moment.",0
+sample_006525,data/raw/audio\sample_006525.wav,data/raw/video\sample_006525.mp4,"Great film, emotional and powerful.",2
+sample_006527,data/raw/audio\sample_006527.wav,data/raw/video\sample_006527.mp4,"Awful experience, not worth watching.",0
+sample_006530,data/raw/audio\sample_006530.wav,data/raw/video\sample_006530.mp4,"It was okay, not great but not bad either.",1
+sample_006540,data/raw/audio\sample_006540.wav,data/raw/video\sample_006540.mp4,"An average performance, could be better.",1
+sample_006542,data/raw/audio\sample_006542.wav,data/raw/video\sample_006542.mp4,"Completely disappointed, waste of time.",0
+sample_006549,data/raw/audio\sample_006549.wav,data/raw/video\sample_006549.mp4,"Awful experience, not worth watching.",0
+sample_006563,data/raw/audio\sample_006563.wav,data/raw/video\sample_006563.mp4,"It was okay, not great but not bad either.",1
+sample_006570,data/raw/audio\sample_006570.wav,data/raw/video\sample_006570.mp4,"It was okay, not great but not bad either.",1
+sample_006588,data/raw/audio\sample_006588.wav,data/raw/video\sample_006588.mp4,"It was okay, not great but not bad either.",1
+sample_006609,data/raw/audio\sample_006609.wav,data/raw/video\sample_006609.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006610,data/raw/audio\sample_006610.wav,data/raw/video\sample_006610.mp4,"An average performance, could be better.",1
+sample_006612,data/raw/audio\sample_006612.wav,data/raw/video\sample_006612.mp4,"This was terrible, I hated every moment.",0
+sample_006614,data/raw/audio\sample_006614.wav,data/raw/video\sample_006614.mp4,"Wonderful, exceeded all expectations!",2
+sample_006616,data/raw/audio\sample_006616.wav,data/raw/video\sample_006616.mp4,"An average performance, could be better.",1
+sample_006619,data/raw/audio\sample_006619.wav,data/raw/video\sample_006619.mp4,"An average performance, could be better.",1
+sample_006640,data/raw/audio\sample_006640.wav,data/raw/video\sample_006640.mp4,"An average performance, could be better.",1
+sample_006644,data/raw/audio\sample_006644.wav,data/raw/video\sample_006644.mp4,"Wonderful, exceeded all expectations!",2
+sample_006645,data/raw/audio\sample_006645.wav,data/raw/video\sample_006645.mp4,"An average performance, could be better.",1
+sample_006652,data/raw/audio\sample_006652.wav,data/raw/video\sample_006652.mp4,"Great film, emotional and powerful.",2
+sample_006656,data/raw/audio\sample_006656.wav,data/raw/video\sample_006656.mp4,"Wonderful, exceeded all expectations!",2
+sample_006668,data/raw/audio\sample_006668.wav,data/raw/video\sample_006668.mp4,"Completely disappointed, waste of time.",0
+sample_006674,data/raw/audio\sample_006674.wav,data/raw/video\sample_006674.mp4,Mediocre storyline but decent acting.,1
+sample_006694,data/raw/audio\sample_006694.wav,data/raw/video\sample_006694.mp4,"Awful experience, not worth watching.",0
+sample_006732,data/raw/audio\sample_006732.wav,data/raw/video\sample_006732.mp4,Mediocre storyline but decent acting.,1
+sample_006748,data/raw/audio\sample_006748.wav,data/raw/video\sample_006748.mp4,"It was okay, not great but not bad either.",1
+sample_006766,data/raw/audio\sample_006766.wav,data/raw/video\sample_006766.mp4,"An average performance, could be better.",1
+sample_006770,data/raw/audio\sample_006770.wav,data/raw/video\sample_006770.mp4,"An average performance, could be better.",1
+sample_006777,data/raw/audio\sample_006777.wav,data/raw/video\sample_006777.mp4,"It was okay, not great but not bad either.",1
+sample_006780,data/raw/audio\sample_006780.wav,data/raw/video\sample_006780.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006806,data/raw/audio\sample_006806.wav,data/raw/video\sample_006806.mp4,Mediocre storyline but decent acting.,1
+sample_006812,data/raw/audio\sample_006812.wav,data/raw/video\sample_006812.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006869,data/raw/audio\sample_006869.wav,data/raw/video\sample_006869.mp4,"It was okay, not great but not bad either.",1
+sample_006881,data/raw/audio\sample_006881.wav,data/raw/video\sample_006881.mp4,"Wonderful, exceeded all expectations!",2
+sample_006882,data/raw/audio\sample_006882.wav,data/raw/video\sample_006882.mp4,"Awful experience, not worth watching.",0
+sample_006892,data/raw/audio\sample_006892.wav,data/raw/video\sample_006892.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006893,data/raw/audio\sample_006893.wav,data/raw/video\sample_006893.mp4,"An average performance, could be better.",1
+sample_006894,data/raw/audio\sample_006894.wav,data/raw/video\sample_006894.mp4,"Great film, emotional and powerful.",2
+sample_006895,data/raw/audio\sample_006895.wav,data/raw/video\sample_006895.mp4,Mediocre storyline but decent acting.,1
+sample_006898,data/raw/audio\sample_006898.wav,data/raw/video\sample_006898.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006937,data/raw/audio\sample_006937.wav,data/raw/video\sample_006937.mp4,Mediocre storyline but decent acting.,1
+sample_006941,data/raw/audio\sample_006941.wav,data/raw/video\sample_006941.mp4,"Wonderful, exceeded all expectations!",2
+sample_006944,data/raw/audio\sample_006944.wav,data/raw/video\sample_006944.mp4,"An average performance, could be better.",1
+sample_006960,data/raw/audio\sample_006960.wav,data/raw/video\sample_006960.mp4,"Absolutely loved it, fantastic experience!",2
+sample_006966,data/raw/audio\sample_006966.wav,data/raw/video\sample_006966.mp4,Mediocre storyline but decent acting.,1
+sample_006970,data/raw/audio\sample_006970.wav,data/raw/video\sample_006970.mp4,"Completely disappointed, waste of time.",0
+sample_006971,data/raw/audio\sample_006971.wav,data/raw/video\sample_006971.mp4,"An average performance, could be better.",1
+sample_006976,data/raw/audio\sample_006976.wav,data/raw/video\sample_006976.mp4,"This was terrible, I hated every moment.",0
+sample_006980,data/raw/audio\sample_006980.wav,data/raw/video\sample_006980.mp4,"Great film, emotional and powerful.",2
+sample_006981,data/raw/audio\sample_006981.wav,data/raw/video\sample_006981.mp4,"Awful experience, not worth watching.",0
+sample_006986,data/raw/audio\sample_006986.wav,data/raw/video\sample_006986.mp4,"Great film, emotional and powerful.",2
+sample_007000,data/raw/audio\sample_007000.wav,data/raw/video\sample_007000.mp4,"Absolutely loved it, fantastic experience!",2
+sample_007004,data/raw/audio\sample_007004.wav,data/raw/video\sample_007004.mp4,"Wonderful, exceeded all expectations!",2
+sample_007026,data/raw/audio\sample_007026.wav,data/raw/video\sample_007026.mp4,"It was okay, not great but not bad either.",1
+sample_007029,data/raw/audio\sample_007029.wav,data/raw/video\sample_007029.mp4,"Wonderful, exceeded all expectations!",2
+sample_007041,data/raw/audio\sample_007041.wav,data/raw/video\sample_007041.mp4,"An average performance, could be better.",1
+sample_007056,data/raw/audio\sample_007056.wav,data/raw/video\sample_007056.mp4,"Great film, emotional and powerful.",2
+sample_007057,data/raw/audio\sample_007057.wav,data/raw/video\sample_007057.mp4,"Completely disappointed, waste of time.",0
+sample_007059,data/raw/audio\sample_007059.wav,data/raw/video\sample_007059.mp4,"This was terrible, I hated every moment.",0
+sample_007062,data/raw/audio\sample_007062.wav,data/raw/video\sample_007062.mp4,"An average performance, could be better.",1
+sample_007069,data/raw/audio\sample_007069.wav,data/raw/video\sample_007069.mp4,"An average performance, could be better.",1
+sample_007079,data/raw/audio\sample_007079.wav,data/raw/video\sample_007079.mp4,"Wonderful, exceeded all expectations!",2
+sample_007099,data/raw/audio\sample_007099.wav,data/raw/video\sample_007099.mp4,"It was okay, not great but not bad either.",1
+sample_007114,data/raw/audio\sample_007114.wav,data/raw/video\sample_007114.mp4,"This was terrible, I hated every moment.",0
+sample_007115,data/raw/audio\sample_007115.wav,data/raw/video\sample_007115.mp4,Mediocre storyline but decent acting.,1
+sample_007117,data/raw/audio\sample_007117.wav,data/raw/video\sample_007117.mp4,"This was terrible, I hated every moment.",0
+sample_007119,data/raw/audio\sample_007119.wav,data/raw/video\sample_007119.mp4,"An average performance, could be better.",1
+sample_007123,data/raw/audio\sample_007123.wav,data/raw/video\sample_007123.mp4,"An average performance, could be better.",1
+sample_007125,data/raw/audio\sample_007125.wav,data/raw/video\sample_007125.mp4,"Wonderful, exceeded all expectations!",2
+sample_007126,data/raw/audio\sample_007126.wav,data/raw/video\sample_007126.mp4,"Completely disappointed, waste of time.",0
+sample_007138,data/raw/audio\sample_007138.wav,data/raw/video\sample_007138.mp4,"Wonderful, exceeded all expectations!",2
+sample_007141,data/raw/audio\sample_007141.wav,data/raw/video\sample_007141.mp4,Mediocre storyline but decent acting.,1
+sample_007158,data/raw/audio\sample_007158.wav,data/raw/video\sample_007158.mp4,Mediocre storyline but decent acting.,1
+sample_007174,data/raw/audio\sample_007174.wav,data/raw/video\sample_007174.mp4,"Great film, emotional and powerful.",2
+sample_007186,data/raw/audio\sample_007186.wav,data/raw/video\sample_007186.mp4,Mediocre storyline but decent acting.,1
+sample_007206,data/raw/audio\sample_007206.wav,data/raw/video\sample_007206.mp4,"An average performance, could be better.",1
+sample_007214,data/raw/audio\sample_007214.wav,data/raw/video\sample_007214.mp4,"Great film, emotional and powerful.",2
+sample_007215,data/raw/audio\sample_007215.wav,data/raw/video\sample_007215.mp4,"This was terrible, I hated every moment.",0
+sample_007218,data/raw/audio\sample_007218.wav,data/raw/video\sample_007218.mp4,"It was okay, not great but not bad either.",1
+sample_007221,data/raw/audio\sample_007221.wav,data/raw/video\sample_007221.mp4,"It was okay, not great but not bad either.",1
+sample_007240,data/raw/audio\sample_007240.wav,data/raw/video\sample_007240.mp4,"Awful experience, not worth watching.",0
+sample_007241,data/raw/audio\sample_007241.wav,data/raw/video\sample_007241.mp4,"Awful experience, not worth watching.",0
+sample_007245,data/raw/audio\sample_007245.wav,data/raw/video\sample_007245.mp4,"Completely disappointed, waste of time.",0
+sample_007246,data/raw/audio\sample_007246.wav,data/raw/video\sample_007246.mp4,"Great film, emotional and powerful.",2
+sample_007247,data/raw/audio\sample_007247.wav,data/raw/video\sample_007247.mp4,"This was terrible, I hated every moment.",0
+sample_007253,data/raw/audio\sample_007253.wav,data/raw/video\sample_007253.mp4,"Completely disappointed, waste of time.",0
+sample_007270,data/raw/audio\sample_007270.wav,data/raw/video\sample_007270.mp4,"It was okay, not great but not bad either.",1
+sample_007271,data/raw/audio\sample_007271.wav,data/raw/video\sample_007271.mp4,"Awful experience, not worth watching.",0
+sample_007294,data/raw/audio\sample_007294.wav,data/raw/video\sample_007294.mp4,"An average performance, could be better.",1
+sample_007314,data/raw/audio\sample_007314.wav,data/raw/video\sample_007314.mp4,"Absolutely loved it, fantastic experience!",2
+sample_007326,data/raw/audio\sample_007326.wav,data/raw/video\sample_007326.mp4,"It was okay, not great but not bad either.",1
+sample_007339,data/raw/audio\sample_007339.wav,data/raw/video\sample_007339.mp4,"This was terrible, I hated every moment.",0
+sample_007340,data/raw/audio\sample_007340.wav,data/raw/video\sample_007340.mp4,"Completely disappointed, waste of time.",0
+sample_007350,data/raw/audio\sample_007350.wav,data/raw/video\sample_007350.mp4,"Great film, emotional and powerful.",2
+sample_007351,data/raw/audio\sample_007351.wav,data/raw/video\sample_007351.mp4,"It was okay, not great but not bad either.",1
+sample_007400,data/raw/audio\sample_007400.wav,data/raw/video\sample_007400.mp4,"Awful experience, not worth watching.",0
+sample_007404,data/raw/audio\sample_007404.wav,data/raw/video\sample_007404.mp4,"This was terrible, I hated every moment.",0
+sample_007409,data/raw/audio\sample_007409.wav,data/raw/video\sample_007409.mp4,"Absolutely loved it, fantastic experience!",2
+sample_007419,data/raw/audio\sample_007419.wav,data/raw/video\sample_007419.mp4,"Completely disappointed, waste of time.",0
+sample_007421,data/raw/audio\sample_007421.wav,data/raw/video\sample_007421.mp4,"Great film, emotional and powerful.",2
+sample_007424,data/raw/audio\sample_007424.wav,data/raw/video\sample_007424.mp4,"This was terrible, I hated every moment.",0
+sample_007437,data/raw/audio\sample_007437.wav,data/raw/video\sample_007437.mp4,"Great film, emotional and powerful.",2
+sample_007446,data/raw/audio\sample_007446.wav,data/raw/video\sample_007446.mp4,"An average performance, could be better.",1
+sample_007449,data/raw/audio\sample_007449.wav,data/raw/video\sample_007449.mp4,Mediocre storyline but decent acting.,1
+sample_007483,data/raw/audio\sample_007483.wav,data/raw/video\sample_007483.mp4,Mediocre storyline but decent acting.,1
+sample_007486,data/raw/audio\sample_007486.wav,data/raw/video\sample_007486.mp4,"Absolutely loved it, fantastic experience!",2
+sample_007489,data/raw/audio\sample_007489.wav,data/raw/video\sample_007489.mp4,"An average performance, could be better.",1
+sample_007494,data/raw/audio\sample_007494.wav,data/raw/video\sample_007494.mp4,"Absolutely loved it, fantastic experience!",2
+sample_007509,data/raw/audio\sample_007509.wav,data/raw/video\sample_007509.mp4,"Awful experience, not worth watching.",0
+sample_007519,data/raw/audio\sample_007519.wav,data/raw/video\sample_007519.mp4,"Completely disappointed, waste of time.",0
+sample_007526,data/raw/audio\sample_007526.wav,data/raw/video\sample_007526.mp4,Mediocre storyline but decent acting.,1
+sample_007546,data/raw/audio\sample_007546.wav,data/raw/video\sample_007546.mp4,"Wonderful, exceeded all expectations!",2
+sample_007554,data/raw/audio\sample_007554.wav,data/raw/video\sample_007554.mp4,"Absolutely loved it, fantastic experience!",2
+sample_007555,data/raw/audio\sample_007555.wav,data/raw/video\sample_007555.mp4,"Great film, emotional and powerful.",2
+sample_007570,data/raw/audio\sample_007570.wav,data/raw/video\sample_007570.mp4,Mediocre storyline but decent acting.,1
+sample_007574,data/raw/audio\sample_007574.wav,data/raw/video\sample_007574.mp4,"Awful experience, not worth watching.",0
+sample_007575,data/raw/audio\sample_007575.wav,data/raw/video\sample_007575.mp4,"Awful experience, not worth watching.",0
+sample_007577,data/raw/audio\sample_007577.wav,data/raw/video\sample_007577.mp4,"Awful experience, not worth watching.",0
+sample_007595,data/raw/audio\sample_007595.wav,data/raw/video\sample_007595.mp4,"Completely disappointed, waste of time.",0
+sample_007603,data/raw/audio\sample_007603.wav,data/raw/video\sample_007603.mp4,"Awful experience, not worth watching.",0
+sample_007617,data/raw/audio\sample_007617.wav,data/raw/video\sample_007617.mp4,"An average performance, could be better.",1
+sample_007622,data/raw/audio\sample_007622.wav,data/raw/video\sample_007622.mp4,"An average performance, could be better.",1
+sample_007629,data/raw/audio\sample_007629.wav,data/raw/video\sample_007629.mp4,"Great film, emotional and powerful.",2
+sample_007633,data/raw/audio\sample_007633.wav,data/raw/video\sample_007633.mp4,"Wonderful, exceeded all expectations!",2
+sample_007634,data/raw/audio\sample_007634.wav,data/raw/video\sample_007634.mp4,"Absolutely loved it, fantastic experience!",2
+sample_007643,data/raw/audio\sample_007643.wav,data/raw/video\sample_007643.mp4,"Great film, emotional and powerful.",2
+sample_007648,data/raw/audio\sample_007648.wav,data/raw/video\sample_007648.mp4,"This was terrible, I hated every moment.",0
+sample_007651,data/raw/audio\sample_007651.wav,data/raw/video\sample_007651.mp4,"Completely disappointed, waste of time.",0
+sample_007667,data/raw/audio\sample_007667.wav,data/raw/video\sample_007667.mp4,"Awful experience, not worth watching.",0
+sample_007673,data/raw/audio\sample_007673.wav,data/raw/video\sample_007673.mp4,"Completely disappointed, waste of time.",0
+sample_007674,data/raw/audio\sample_007674.wav,data/raw/video\sample_007674.mp4,Mediocre storyline but decent acting.,1
+sample_007679,data/raw/audio\sample_007679.wav,data/raw/video\sample_007679.mp4,Mediocre storyline but decent acting.,1
+sample_007693,data/raw/audio\sample_007693.wav,data/raw/video\sample_007693.mp4,"This was terrible, I hated every moment.",0
+sample_007694,data/raw/audio\sample_007694.wav,data/raw/video\sample_007694.mp4,"Wonderful, exceeded all expectations!",2
+sample_007709,data/raw/audio\sample_007709.wav,data/raw/video\sample_007709.mp4,"Completely disappointed, waste of time.",0
+sample_007717,data/raw/audio\sample_007717.wav,data/raw/video\sample_007717.mp4,"An average performance, could be better.",1
+sample_007723,data/raw/audio\sample_007723.wav,data/raw/video\sample_007723.mp4,"Absolutely loved it, fantastic experience!",2
+sample_007776,data/raw/audio\sample_007776.wav,data/raw/video\sample_007776.mp4,"Completely disappointed, waste of time.",0
+sample_007804,data/raw/audio\sample_007804.wav,data/raw/video\sample_007804.mp4,"This was terrible, I hated every moment.",0
+sample_007827,data/raw/audio\sample_007827.wav,data/raw/video\sample_007827.mp4,"Wonderful, exceeded all expectations!",2
+sample_007858,data/raw/audio\sample_007858.wav,data/raw/video\sample_007858.mp4,Mediocre storyline but decent acting.,1
+sample_007860,data/raw/audio\sample_007860.wav,data/raw/video\sample_007860.mp4,"This was terrible, I hated every moment.",0
+sample_007863,data/raw/audio\sample_007863.wav,data/raw/video\sample_007863.mp4,Mediocre storyline but decent acting.,1
+sample_007891,data/raw/audio\sample_007891.wav,data/raw/video\sample_007891.mp4,"Great film, emotional and powerful.",2
+sample_007892,data/raw/audio\sample_007892.wav,data/raw/video\sample_007892.mp4,"This was terrible, I hated every moment.",0
+sample_007901,data/raw/audio\sample_007901.wav,data/raw/video\sample_007901.mp4,"Awful experience, not worth watching.",0
+sample_007906,data/raw/audio\sample_007906.wav,data/raw/video\sample_007906.mp4,"This was terrible, I hated every moment.",0
+sample_007916,data/raw/audio\sample_007916.wav,data/raw/video\sample_007916.mp4,"Great film, emotional and powerful.",2
+sample_007935,data/raw/audio\sample_007935.wav,data/raw/video\sample_007935.mp4,"Completely disappointed, waste of time.",0
+sample_007939,data/raw/audio\sample_007939.wav,data/raw/video\sample_007939.mp4,"Wonderful, exceeded all expectations!",2
+sample_007943,data/raw/audio\sample_007943.wav,data/raw/video\sample_007943.mp4,"Awful experience, not worth watching.",0
+sample_007956,data/raw/audio\sample_007956.wav,data/raw/video\sample_007956.mp4,"This was terrible, I hated every moment.",0
+sample_007967,data/raw/audio\sample_007967.wav,data/raw/video\sample_007967.mp4,"Wonderful, exceeded all expectations!",2
+sample_007973,data/raw/audio\sample_007973.wav,data/raw/video\sample_007973.mp4,"Awful experience, not worth watching.",0
+sample_007979,data/raw/audio\sample_007979.wav,data/raw/video\sample_007979.mp4,"This was terrible, I hated every moment.",0
+sample_007989,data/raw/audio\sample_007989.wav,data/raw/video\sample_007989.mp4,"Awful experience, not worth watching.",0
+sample_007992,data/raw/audio\sample_007992.wav,data/raw/video\sample_007992.mp4,"Completely disappointed, waste of time.",0
+sample_007994,data/raw/audio\sample_007994.wav,data/raw/video\sample_007994.mp4,"An average performance, could be better.",1
+sample_007996,data/raw/audio\sample_007996.wav,data/raw/video\sample_007996.mp4,"Completely disappointed, waste of time.",0
+sample_008006,data/raw/audio\sample_008006.wav,data/raw/video\sample_008006.mp4,"Awful experience, not worth watching.",0
+sample_008007,data/raw/audio\sample_008007.wav,data/raw/video\sample_008007.mp4,"Wonderful, exceeded all expectations!",2
+sample_008010,data/raw/audio\sample_008010.wav,data/raw/video\sample_008010.mp4,"It was okay, not great but not bad either.",1
+sample_008038,data/raw/audio\sample_008038.wav,data/raw/video\sample_008038.mp4,"This was terrible, I hated every moment.",0
+sample_008056,data/raw/audio\sample_008056.wav,data/raw/video\sample_008056.mp4,"Great film, emotional and powerful.",2
+sample_008070,data/raw/audio\sample_008070.wav,data/raw/video\sample_008070.mp4,"It was okay, not great but not bad either.",1
+sample_008120,data/raw/audio\sample_008120.wav,data/raw/video\sample_008120.mp4,"Awful experience, not worth watching.",0
+sample_008135,data/raw/audio\sample_008135.wav,data/raw/video\sample_008135.mp4,Mediocre storyline but decent acting.,1
+sample_008150,data/raw/audio\sample_008150.wav,data/raw/video\sample_008150.mp4,"Completely disappointed, waste of time.",0
+sample_008152,data/raw/audio\sample_008152.wav,data/raw/video\sample_008152.mp4,"Awful experience, not worth watching.",0
+sample_008164,data/raw/audio\sample_008164.wav,data/raw/video\sample_008164.mp4,"Awful experience, not worth watching.",0
+sample_008172,data/raw/audio\sample_008172.wav,data/raw/video\sample_008172.mp4,"Completely disappointed, waste of time.",0
+sample_008173,data/raw/audio\sample_008173.wav,data/raw/video\sample_008173.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008175,data/raw/audio\sample_008175.wav,data/raw/video\sample_008175.mp4,"It was okay, not great but not bad either.",1
+sample_008190,data/raw/audio\sample_008190.wav,data/raw/video\sample_008190.mp4,Mediocre storyline but decent acting.,1
+sample_008195,data/raw/audio\sample_008195.wav,data/raw/video\sample_008195.mp4,"Completely disappointed, waste of time.",0
+sample_008200,data/raw/audio\sample_008200.wav,data/raw/video\sample_008200.mp4,"Completely disappointed, waste of time.",0
+sample_008212,data/raw/audio\sample_008212.wav,data/raw/video\sample_008212.mp4,"Great film, emotional and powerful.",2
+sample_008213,data/raw/audio\sample_008213.wav,data/raw/video\sample_008213.mp4,"Wonderful, exceeded all expectations!",2
+sample_008220,data/raw/audio\sample_008220.wav,data/raw/video\sample_008220.mp4,"Wonderful, exceeded all expectations!",2
+sample_008227,data/raw/audio\sample_008227.wav,data/raw/video\sample_008227.mp4,Mediocre storyline but decent acting.,1
+sample_008238,data/raw/audio\sample_008238.wav,data/raw/video\sample_008238.mp4,"This was terrible, I hated every moment.",0
+sample_008253,data/raw/audio\sample_008253.wav,data/raw/video\sample_008253.mp4,"This was terrible, I hated every moment.",0
+sample_008258,data/raw/audio\sample_008258.wav,data/raw/video\sample_008258.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008268,data/raw/audio\sample_008268.wav,data/raw/video\sample_008268.mp4,"Completely disappointed, waste of time.",0
+sample_008290,data/raw/audio\sample_008290.wav,data/raw/video\sample_008290.mp4,"This was terrible, I hated every moment.",0
+sample_008306,data/raw/audio\sample_008306.wav,data/raw/video\sample_008306.mp4,Mediocre storyline but decent acting.,1
+sample_008308,data/raw/audio\sample_008308.wav,data/raw/video\sample_008308.mp4,"An average performance, could be better.",1
+sample_008311,data/raw/audio\sample_008311.wav,data/raw/video\sample_008311.mp4,"It was okay, not great but not bad either.",1
+sample_008320,data/raw/audio\sample_008320.wav,data/raw/video\sample_008320.mp4,"It was okay, not great but not bad either.",1
+sample_008322,data/raw/audio\sample_008322.wav,data/raw/video\sample_008322.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008335,data/raw/audio\sample_008335.wav,data/raw/video\sample_008335.mp4,"It was okay, not great but not bad either.",1
+sample_008340,data/raw/audio\sample_008340.wav,data/raw/video\sample_008340.mp4,Mediocre storyline but decent acting.,1
+sample_008352,data/raw/audio\sample_008352.wav,data/raw/video\sample_008352.mp4,"Wonderful, exceeded all expectations!",2
+sample_008356,data/raw/audio\sample_008356.wav,data/raw/video\sample_008356.mp4,"Completely disappointed, waste of time.",0
+sample_008386,data/raw/audio\sample_008386.wav,data/raw/video\sample_008386.mp4,"Awful experience, not worth watching.",0
+sample_008393,data/raw/audio\sample_008393.wav,data/raw/video\sample_008393.mp4,Mediocre storyline but decent acting.,1
+sample_008407,data/raw/audio\sample_008407.wav,data/raw/video\sample_008407.mp4,"Awful experience, not worth watching.",0
+sample_008410,data/raw/audio\sample_008410.wav,data/raw/video\sample_008410.mp4,Mediocre storyline but decent acting.,1
+sample_008415,data/raw/audio\sample_008415.wav,data/raw/video\sample_008415.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008424,data/raw/audio\sample_008424.wav,data/raw/video\sample_008424.mp4,"This was terrible, I hated every moment.",0
+sample_008427,data/raw/audio\sample_008427.wav,data/raw/video\sample_008427.mp4,"Wonderful, exceeded all expectations!",2
+sample_008433,data/raw/audio\sample_008433.wav,data/raw/video\sample_008433.mp4,"Awful experience, not worth watching.",0
+sample_008436,data/raw/audio\sample_008436.wav,data/raw/video\sample_008436.mp4,Mediocre storyline but decent acting.,1
+sample_008442,data/raw/audio\sample_008442.wav,data/raw/video\sample_008442.mp4,"This was terrible, I hated every moment.",0
+sample_008459,data/raw/audio\sample_008459.wav,data/raw/video\sample_008459.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008472,data/raw/audio\sample_008472.wav,data/raw/video\sample_008472.mp4,"An average performance, could be better.",1
+sample_008476,data/raw/audio\sample_008476.wav,data/raw/video\sample_008476.mp4,"This was terrible, I hated every moment.",0
+sample_008485,data/raw/audio\sample_008485.wav,data/raw/video\sample_008485.mp4,"Wonderful, exceeded all expectations!",2
+sample_008494,data/raw/audio\sample_008494.wav,data/raw/video\sample_008494.mp4,"Wonderful, exceeded all expectations!",2
+sample_008502,data/raw/audio\sample_008502.wav,data/raw/video\sample_008502.mp4,"Wonderful, exceeded all expectations!",2
+sample_008505,data/raw/audio\sample_008505.wav,data/raw/video\sample_008505.mp4,"Completely disappointed, waste of time.",0
+sample_008512,data/raw/audio\sample_008512.wav,data/raw/video\sample_008512.mp4,"Awful experience, not worth watching.",0
+sample_008519,data/raw/audio\sample_008519.wav,data/raw/video\sample_008519.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008521,data/raw/audio\sample_008521.wav,data/raw/video\sample_008521.mp4,"Wonderful, exceeded all expectations!",2
+sample_008529,data/raw/audio\sample_008529.wav,data/raw/video\sample_008529.mp4,"It was okay, not great but not bad either.",1
+sample_008533,data/raw/audio\sample_008533.wav,data/raw/video\sample_008533.mp4,"It was okay, not great but not bad either.",1
+sample_008549,data/raw/audio\sample_008549.wav,data/raw/video\sample_008549.mp4,"This was terrible, I hated every moment.",0
+sample_008554,data/raw/audio\sample_008554.wav,data/raw/video\sample_008554.mp4,"This was terrible, I hated every moment.",0
+sample_008557,data/raw/audio\sample_008557.wav,data/raw/video\sample_008557.mp4,"Great film, emotional and powerful.",2
+sample_008569,data/raw/audio\sample_008569.wav,data/raw/video\sample_008569.mp4,Mediocre storyline but decent acting.,1
+sample_008577,data/raw/audio\sample_008577.wav,data/raw/video\sample_008577.mp4,"It was okay, not great but not bad either.",1
+sample_008589,data/raw/audio\sample_008589.wav,data/raw/video\sample_008589.mp4,"An average performance, could be better.",1
+sample_008592,data/raw/audio\sample_008592.wav,data/raw/video\sample_008592.mp4,"It was okay, not great but not bad either.",1
+sample_008602,data/raw/audio\sample_008602.wav,data/raw/video\sample_008602.mp4,"This was terrible, I hated every moment.",0
+sample_008603,data/raw/audio\sample_008603.wav,data/raw/video\sample_008603.mp4,"Completely disappointed, waste of time.",0
+sample_008623,data/raw/audio\sample_008623.wav,data/raw/video\sample_008623.mp4,"Wonderful, exceeded all expectations!",2
+sample_008639,data/raw/audio\sample_008639.wav,data/raw/video\sample_008639.mp4,"This was terrible, I hated every moment.",0
+sample_008651,data/raw/audio\sample_008651.wav,data/raw/video\sample_008651.mp4,"Great film, emotional and powerful.",2
+sample_008662,data/raw/audio\sample_008662.wav,data/raw/video\sample_008662.mp4,"An average performance, could be better.",1
+sample_008680,data/raw/audio\sample_008680.wav,data/raw/video\sample_008680.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008691,data/raw/audio\sample_008691.wav,data/raw/video\sample_008691.mp4,"Awful experience, not worth watching.",0
+sample_008705,data/raw/audio\sample_008705.wav,data/raw/video\sample_008705.mp4,"Completely disappointed, waste of time.",0
+sample_008716,data/raw/audio\sample_008716.wav,data/raw/video\sample_008716.mp4,"It was okay, not great but not bad either.",1
+sample_008721,data/raw/audio\sample_008721.wav,data/raw/video\sample_008721.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008727,data/raw/audio\sample_008727.wav,data/raw/video\sample_008727.mp4,"Awful experience, not worth watching.",0
+sample_008730,data/raw/audio\sample_008730.wav,data/raw/video\sample_008730.mp4,Mediocre storyline but decent acting.,1
+sample_008739,data/raw/audio\sample_008739.wav,data/raw/video\sample_008739.mp4,"Great film, emotional and powerful.",2
+sample_008753,data/raw/audio\sample_008753.wav,data/raw/video\sample_008753.mp4,Mediocre storyline but decent acting.,1
+sample_008754,data/raw/audio\sample_008754.wav,data/raw/video\sample_008754.mp4,"Wonderful, exceeded all expectations!",2
+sample_008788,data/raw/audio\sample_008788.wav,data/raw/video\sample_008788.mp4,"This was terrible, I hated every moment.",0
+sample_008792,data/raw/audio\sample_008792.wav,data/raw/video\sample_008792.mp4,"Wonderful, exceeded all expectations!",2
+sample_008795,data/raw/audio\sample_008795.wav,data/raw/video\sample_008795.mp4,"Wonderful, exceeded all expectations!",2
+sample_008802,data/raw/audio\sample_008802.wav,data/raw/video\sample_008802.mp4,"Awful experience, not worth watching.",0
+sample_008806,data/raw/audio\sample_008806.wav,data/raw/video\sample_008806.mp4,Mediocre storyline but decent acting.,1
+sample_008828,data/raw/audio\sample_008828.wav,data/raw/video\sample_008828.mp4,"Awful experience, not worth watching.",0
+sample_008838,data/raw/audio\sample_008838.wav,data/raw/video\sample_008838.mp4,"It was okay, not great but not bad either.",1
+sample_008852,data/raw/audio\sample_008852.wav,data/raw/video\sample_008852.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008861,data/raw/audio\sample_008861.wav,data/raw/video\sample_008861.mp4,"It was okay, not great but not bad either.",1
+sample_008865,data/raw/audio\sample_008865.wav,data/raw/video\sample_008865.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008867,data/raw/audio\sample_008867.wav,data/raw/video\sample_008867.mp4,Mediocre storyline but decent acting.,1
+sample_008893,data/raw/audio\sample_008893.wav,data/raw/video\sample_008893.mp4,"It was okay, not great but not bad either.",1
+sample_008899,data/raw/audio\sample_008899.wav,data/raw/video\sample_008899.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008900,data/raw/audio\sample_008900.wav,data/raw/video\sample_008900.mp4,"Completely disappointed, waste of time.",0
+sample_008901,data/raw/audio\sample_008901.wav,data/raw/video\sample_008901.mp4,Mediocre storyline but decent acting.,1
+sample_008914,data/raw/audio\sample_008914.wav,data/raw/video\sample_008914.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008932,data/raw/audio\sample_008932.wav,data/raw/video\sample_008932.mp4,"Completely disappointed, waste of time.",0
+sample_008936,data/raw/audio\sample_008936.wav,data/raw/video\sample_008936.mp4,"Wonderful, exceeded all expectations!",2
+sample_008954,data/raw/audio\sample_008954.wav,data/raw/video\sample_008954.mp4,"Absolutely loved it, fantastic experience!",2
+sample_008958,data/raw/audio\sample_008958.wav,data/raw/video\sample_008958.mp4,"Awful experience, not worth watching.",0
+sample_008959,data/raw/audio\sample_008959.wav,data/raw/video\sample_008959.mp4,"An average performance, could be better.",1
+sample_008978,data/raw/audio\sample_008978.wav,data/raw/video\sample_008978.mp4,"An average performance, could be better.",1
+sample_008984,data/raw/audio\sample_008984.wav,data/raw/video\sample_008984.mp4,"Great film, emotional and powerful.",2
+sample_009015,data/raw/audio\sample_009015.wav,data/raw/video\sample_009015.mp4,"Awful experience, not worth watching.",0
+sample_009032,data/raw/audio\sample_009032.wav,data/raw/video\sample_009032.mp4,"Completely disappointed, waste of time.",0
+sample_009033,data/raw/audio\sample_009033.wav,data/raw/video\sample_009033.mp4,"Completely disappointed, waste of time.",0
+sample_009045,data/raw/audio\sample_009045.wav,data/raw/video\sample_009045.mp4,Mediocre storyline but decent acting.,1
+sample_009048,data/raw/audio\sample_009048.wav,data/raw/video\sample_009048.mp4,"Great film, emotional and powerful.",2
+sample_009058,data/raw/audio\sample_009058.wav,data/raw/video\sample_009058.mp4,"An average performance, could be better.",1
+sample_009087,data/raw/audio\sample_009087.wav,data/raw/video\sample_009087.mp4,"Wonderful, exceeded all expectations!",2
+sample_009094,data/raw/audio\sample_009094.wav,data/raw/video\sample_009094.mp4,"This was terrible, I hated every moment.",0
+sample_009111,data/raw/audio\sample_009111.wav,data/raw/video\sample_009111.mp4,"This was terrible, I hated every moment.",0
+sample_009117,data/raw/audio\sample_009117.wav,data/raw/video\sample_009117.mp4,"Wonderful, exceeded all expectations!",2
+sample_009126,data/raw/audio\sample_009126.wav,data/raw/video\sample_009126.mp4,"Great film, emotional and powerful.",2
+sample_009127,data/raw/audio\sample_009127.wav,data/raw/video\sample_009127.mp4,"Completely disappointed, waste of time.",0
+sample_009151,data/raw/audio\sample_009151.wav,data/raw/video\sample_009151.mp4,"Great film, emotional and powerful.",2
+sample_009172,data/raw/audio\sample_009172.wav,data/raw/video\sample_009172.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009183,data/raw/audio\sample_009183.wav,data/raw/video\sample_009183.mp4,"Wonderful, exceeded all expectations!",2
+sample_009191,data/raw/audio\sample_009191.wav,data/raw/video\sample_009191.mp4,"Completely disappointed, waste of time.",0
+sample_009204,data/raw/audio\sample_009204.wav,data/raw/video\sample_009204.mp4,"Awful experience, not worth watching.",0
+sample_009208,data/raw/audio\sample_009208.wav,data/raw/video\sample_009208.mp4,"An average performance, could be better.",1
+sample_009222,data/raw/audio\sample_009222.wav,data/raw/video\sample_009222.mp4,"Completely disappointed, waste of time.",0
+sample_009225,data/raw/audio\sample_009225.wav,data/raw/video\sample_009225.mp4,"Awful experience, not worth watching.",0
+sample_009229,data/raw/audio\sample_009229.wav,data/raw/video\sample_009229.mp4,"Wonderful, exceeded all expectations!",2
+sample_009265,data/raw/audio\sample_009265.wav,data/raw/video\sample_009265.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009266,data/raw/audio\sample_009266.wav,data/raw/video\sample_009266.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009270,data/raw/audio\sample_009270.wav,data/raw/video\sample_009270.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009274,data/raw/audio\sample_009274.wav,data/raw/video\sample_009274.mp4,"This was terrible, I hated every moment.",0
+sample_009311,data/raw/audio\sample_009311.wav,data/raw/video\sample_009311.mp4,"Completely disappointed, waste of time.",0
+sample_009331,data/raw/audio\sample_009331.wav,data/raw/video\sample_009331.mp4,Mediocre storyline but decent acting.,1
+sample_009337,data/raw/audio\sample_009337.wav,data/raw/video\sample_009337.mp4,"Completely disappointed, waste of time.",0
+sample_009347,data/raw/audio\sample_009347.wav,data/raw/video\sample_009347.mp4,Mediocre storyline but decent acting.,1
+sample_009358,data/raw/audio\sample_009358.wav,data/raw/video\sample_009358.mp4,"Completely disappointed, waste of time.",0
+sample_009387,data/raw/audio\sample_009387.wav,data/raw/video\sample_009387.mp4,Mediocre storyline but decent acting.,1
+sample_009389,data/raw/audio\sample_009389.wav,data/raw/video\sample_009389.mp4,"It was okay, not great but not bad either.",1
+sample_009397,data/raw/audio\sample_009397.wav,data/raw/video\sample_009397.mp4,"Great film, emotional and powerful.",2
+sample_009408,data/raw/audio\sample_009408.wav,data/raw/video\sample_009408.mp4,Mediocre storyline but decent acting.,1
+sample_009409,data/raw/audio\sample_009409.wav,data/raw/video\sample_009409.mp4,"Completely disappointed, waste of time.",0
+sample_009413,data/raw/audio\sample_009413.wav,data/raw/video\sample_009413.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009416,data/raw/audio\sample_009416.wav,data/raw/video\sample_009416.mp4,"An average performance, could be better.",1
+sample_009435,data/raw/audio\sample_009435.wav,data/raw/video\sample_009435.mp4,Mediocre storyline but decent acting.,1
+sample_009441,data/raw/audio\sample_009441.wav,data/raw/video\sample_009441.mp4,"Awful experience, not worth watching.",0
+sample_009448,data/raw/audio\sample_009448.wav,data/raw/video\sample_009448.mp4,"Wonderful, exceeded all expectations!",2
+sample_009453,data/raw/audio\sample_009453.wav,data/raw/video\sample_009453.mp4,"Wonderful, exceeded all expectations!",2
+sample_009455,data/raw/audio\sample_009455.wav,data/raw/video\sample_009455.mp4,"Great film, emotional and powerful.",2
+sample_009456,data/raw/audio\sample_009456.wav,data/raw/video\sample_009456.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009465,data/raw/audio\sample_009465.wav,data/raw/video\sample_009465.mp4,"Great film, emotional and powerful.",2
+sample_009467,data/raw/audio\sample_009467.wav,data/raw/video\sample_009467.mp4,"An average performance, could be better.",1
+sample_009474,data/raw/audio\sample_009474.wav,data/raw/video\sample_009474.mp4,"Wonderful, exceeded all expectations!",2
+sample_009480,data/raw/audio\sample_009480.wav,data/raw/video\sample_009480.mp4,"Awful experience, not worth watching.",0
+sample_009487,data/raw/audio\sample_009487.wav,data/raw/video\sample_009487.mp4,"It was okay, not great but not bad either.",1
+sample_009492,data/raw/audio\sample_009492.wav,data/raw/video\sample_009492.mp4,"An average performance, could be better.",1
+sample_009500,data/raw/audio\sample_009500.wav,data/raw/video\sample_009500.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009526,data/raw/audio\sample_009526.wav,data/raw/video\sample_009526.mp4,"Awful experience, not worth watching.",0
+sample_009539,data/raw/audio\sample_009539.wav,data/raw/video\sample_009539.mp4,"Wonderful, exceeded all expectations!",2
+sample_009540,data/raw/audio\sample_009540.wav,data/raw/video\sample_009540.mp4,"An average performance, could be better.",1
+sample_009544,data/raw/audio\sample_009544.wav,data/raw/video\sample_009544.mp4,"This was terrible, I hated every moment.",0
+sample_009551,data/raw/audio\sample_009551.wav,data/raw/video\sample_009551.mp4,"It was okay, not great but not bad either.",1
+sample_009575,data/raw/audio\sample_009575.wav,data/raw/video\sample_009575.mp4,Mediocre storyline but decent acting.,1
+sample_009581,data/raw/audio\sample_009581.wav,data/raw/video\sample_009581.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009601,data/raw/audio\sample_009601.wav,data/raw/video\sample_009601.mp4,"It was okay, not great but not bad either.",1
+sample_009602,data/raw/audio\sample_009602.wav,data/raw/video\sample_009602.mp4,Mediocre storyline but decent acting.,1
+sample_009622,data/raw/audio\sample_009622.wav,data/raw/video\sample_009622.mp4,"It was okay, not great but not bad either.",1
+sample_009624,data/raw/audio\sample_009624.wav,data/raw/video\sample_009624.mp4,Mediocre storyline but decent acting.,1
+sample_009639,data/raw/audio\sample_009639.wav,data/raw/video\sample_009639.mp4,"An average performance, could be better.",1
+sample_009651,data/raw/audio\sample_009651.wav,data/raw/video\sample_009651.mp4,Mediocre storyline but decent acting.,1
+sample_009678,data/raw/audio\sample_009678.wav,data/raw/video\sample_009678.mp4,"Great film, emotional and powerful.",2
+sample_009707,data/raw/audio\sample_009707.wav,data/raw/video\sample_009707.mp4,Mediocre storyline but decent acting.,1
+sample_009710,data/raw/audio\sample_009710.wav,data/raw/video\sample_009710.mp4,"Completely disappointed, waste of time.",0
+sample_009727,data/raw/audio\sample_009727.wav,data/raw/video\sample_009727.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009738,data/raw/audio\sample_009738.wav,data/raw/video\sample_009738.mp4,"Awful experience, not worth watching.",0
+sample_009740,data/raw/audio\sample_009740.wav,data/raw/video\sample_009740.mp4,Mediocre storyline but decent acting.,1
+sample_009752,data/raw/audio\sample_009752.wav,data/raw/video\sample_009752.mp4,"Great film, emotional and powerful.",2
+sample_009755,data/raw/audio\sample_009755.wav,data/raw/video\sample_009755.mp4,"It was okay, not great but not bad either.",1
+sample_009758,data/raw/audio\sample_009758.wav,data/raw/video\sample_009758.mp4,"Completely disappointed, waste of time.",0
+sample_009760,data/raw/audio\sample_009760.wav,data/raw/video\sample_009760.mp4,"It was okay, not great but not bad either.",1
+sample_009782,data/raw/audio\sample_009782.wav,data/raw/video\sample_009782.mp4,"It was okay, not great but not bad either.",1
+sample_009812,data/raw/audio\sample_009812.wav,data/raw/video\sample_009812.mp4,"Completely disappointed, waste of time.",0
+sample_009815,data/raw/audio\sample_009815.wav,data/raw/video\sample_009815.mp4,"Absolutely loved it, fantastic experience!",2
+sample_009831,data/raw/audio\sample_009831.wav,data/raw/video\sample_009831.mp4,Mediocre storyline but decent acting.,1
+sample_009848,data/raw/audio\sample_009848.wav,data/raw/video\sample_009848.mp4,"Completely disappointed, waste of time.",0
+sample_009849,data/raw/audio\sample_009849.wav,data/raw/video\sample_009849.mp4,"An average performance, could be better.",1
+sample_009850,data/raw/audio\sample_009850.wav,data/raw/video\sample_009850.mp4,"Great film, emotional and powerful.",2
+sample_009852,data/raw/audio\sample_009852.wav,data/raw/video\sample_009852.mp4,"Awful experience, not worth watching.",0
+sample_009854,data/raw/audio\sample_009854.wav,data/raw/video\sample_009854.mp4,"Awful experience, not worth watching.",0
+sample_009864,data/raw/audio\sample_009864.wav,data/raw/video\sample_009864.mp4,Mediocre storyline but decent acting.,1
+sample_009918,data/raw/audio\sample_009918.wav,data/raw/video\sample_009918.mp4,"An average performance, could be better.",1
+sample_009933,data/raw/audio\sample_009933.wav,data/raw/video\sample_009933.mp4,Mediocre storyline but decent acting.,1
+sample_009939,data/raw/audio\sample_009939.wav,data/raw/video\sample_009939.mp4,"This was terrible, I hated every moment.",0
+sample_009951,data/raw/audio\sample_009951.wav,data/raw/video\sample_009951.mp4,"It was okay, not great but not bad either.",1
+sample_009954,data/raw/audio\sample_009954.wav,data/raw/video\sample_009954.mp4,"It was okay, not great but not bad either.",1
+sample_009978,data/raw/audio\sample_009978.wav,data/raw/video\sample_009978.mp4,"Wonderful, exceeded all expectations!",2
+sample_009982,data/raw/audio\sample_009982.wav,data/raw/video\sample_009982.mp4,Mediocre storyline but decent acting.,1
+sample_009986,data/raw/audio\sample_009986.wav,data/raw/video\sample_009986.mp4,"Completely disappointed, waste of time.",0
+sample_009987,data/raw/audio\sample_009987.wav,data/raw/video\sample_009987.mp4,"This was terrible, I hated every moment.",0
+sample_009997,data/raw/audio\sample_009997.wav,data/raw/video\sample_009997.mp4,"Completely disappointed, waste of time.",0
